@@ -1,11 +1,19 @@
-armchair - des Sessel
-camera - die Kamera
-cutlery - das Besteck
-dishes - das Geschirr
-spoon - der Löffel
-fork - die Gabel
-knife - das Messer
-sole - die Sohle
-milk pot - der Milchtopf
-screen - die Bildschirm
-insurance - die Versicherung
+to be able - poder
+to be pleasing - gustar
+to put - poner
+almost - casi
+to know - saber
+like, as - como
+where - donde
+to give - dar
+but - pero
+itself - se
+much - mucho
+new - nuevo
+when - cuando
+boy - chico
+to understand - entender
+if - si
+or - o
+happy - feliz
+all - todo

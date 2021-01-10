@@ -5,8 +5,11 @@ from ucenje_novih_reci.word_complex import WordComplex
 
 
 def learn_this_list_german(target_words_list):
-    for word_complex in target_words_list:
+    for count, word_complex in enumerate(target_words_list):
+        length = len(target_words_list)
+        percentage = (count / length) * 100
 
+        print(str(round(percentage), 1) + " %")
         eng_art = "The " if word_complex.art else ""
         print(eng_art + word_complex.eng)
         translation_input = input("translation: ")
@@ -48,8 +51,10 @@ def learn_this_list_german(target_words_list):
 
 
 def learn_this_list_english(list):
-    for word_complex in list:
-
+    for count, word_complex in enumerate(list):
+        length = len(list)
+        percentage = (count / length) * 100
+        print(str(round(percentage, 1)) + " %")
         print(word_complex.get_german())
         translation_input = input("translation: ")
 
@@ -80,6 +85,10 @@ def learn_this_list_english(list):
             print("")
         continue
 
+    correct_answers_percent = (round(((len(list_of_false) / len(list)) * 100), 1))
+    if correct_answers_percent != 100:
+        print("{} % of incorrect answers in first go".format(correct_answers_percent))
+
 
 def get_target_list():
     with codecs.open("new_words.txt", 'r', 'utf-8') as f:
@@ -90,14 +99,18 @@ def get_target_list():
 
     for line in target_words_list:
         german_art = ''
+        german_word = ''
         word_line_array = line.split(" - ")
 
         english_word = word_line_array[0]
 
-        articles = ["der", "die", "das"]
+        articles = ["der", "die", "das", "Der", "Die", "Das"]
         if any(x in word_line_array[1] for x in articles):
             german_art = word_line_array[1].split()[0]
-            german_word = word_line_array[1].split()[1]
+            try:
+                german_word = word_line_array[1].split()[1]
+            except:
+                print(word_line_array)
         else:
             german_word = word_line_array[1]
 
@@ -128,7 +141,8 @@ def learn_again():
 target_list = get_target_list()
 list_of_false = []
 
-learning_mode = input("write GERMAN (g) or write ENGLISH (e) : ")
+learning_mode = "e"
+# learning_mode = input("write GERMAN (g) or write ENGLISH (e) : ")
 print("-------------------------------------------------f")
 
 if learning_mode == "g":
