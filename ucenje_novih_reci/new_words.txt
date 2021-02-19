@@ -1,19 +1,24 @@
-to be able - poder
-to be pleasing - gustar
-to put - poner
-almost - casi
-to know - saber
-like, as - como
-where - donde
-to give - dar
-but - pero
-itself - se
-much - mucho
-new - nuevo
-when - cuando
-boy - chico
-to understand - entender
-if - si
-or - o
-happy - feliz
-all - todo
+ad - in
+d - zu
+d - von
+d - mit
+ad - auf
+a - für
+ad - an
+d - bei
+d - nach
+d - aus
+a - um
+ad - über
+ad - vor
+a - durch
+a - bis
+ad - unter
+ad - zwischen
+a - gegen
+a - ohne
+d - seit
+ad - neben
+ad - hinter
+d - gegenüber
+

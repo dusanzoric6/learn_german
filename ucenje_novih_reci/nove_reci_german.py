@@ -6,21 +6,11 @@ from ucenje_novih_reci.word_complex import WordComplex
 
 def learn_this_list_german(target_words_list):
     for count, word_complex in enumerate(target_words_list):
-        length = len(target_words_list)
-        percentage = (count / length) * 100
 
-        print(str(round(percentage), 1) + " %")
+        print_loading_percentage(count, target_words_list)
         eng_art = "The " if word_complex.art else ""
         print(eng_art + word_complex.eng)
         translation_input = input("translation: ")
-        print(translation_input)
-
-        # if translation_input == "aa":
-        #     tts = gTTS(text=word_complex.art + " " + word_complex.ger, lang='de')
-        #     tts.save("word_for_speech.mp3")
-        #
-        #     playsound.playsound('word_for_speech.mp3', True)
-        #     continue
 
         if (word_complex.art.lower() + " " + word_complex.ger.lower()).strip() == translation_input.lower():
             print("true")
@@ -48,6 +38,8 @@ def learn_this_list_german(target_words_list):
             print("-------------------------------------------------f")
             print("")
         continue
+
+    print_success_rate()
 
 
 def learn_this_list_english(list):
@@ -90,6 +82,18 @@ def learn_this_list_english(list):
         print("{} % of incorrect answers in first go".format(correct_answers_percent))
 
 
+def print_loading_percentage(count, target_words_list):
+    length = len(target_words_list)
+    percentage = (count / length) * 100
+    print(str(round(percentage, 1)) + " %")
+
+
+def print_success_rate():
+    correct_answers_percent = (round(((len(list_of_false) / len(target_list)) * 100), 1))
+    if correct_answers_percent != 100:
+        print("{} % of incorrect answers in first go".format(correct_answers_percent))
+
+
 def get_target_list():
     with codecs.open("new_words.txt", 'r', 'utf-8') as f:
         target_words_list = f.readlines()
@@ -104,7 +108,7 @@ def get_target_list():
 
         english_word = word_line_array[0]
 
-        articles = ["der", "die", "das", "Der", "Die", "Das"]
+        articles = ["der ", "die ", "das ", "Der ", "Die ", "Das "]
         if any(x in word_line_array[1] for x in articles):
             german_art = word_line_array[1].split()[0]
             try:
