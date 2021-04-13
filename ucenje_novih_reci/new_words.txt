@@ -1,24 +1,22 @@
-ad - in
-d - zu
-d - von
-d - mit
-ad - auf
-a - für
-ad - an
-d - bei
-d - nach
-d - aus
-a - um
-ad - über
-ad - vor
-a - durch
-a - bis
-ad - unter
-ad - zwischen
-a - gegen
-a - ohne
-d - seit
-ad - neben
-ad - hinter
-d - gegenüber
-
+gedacht - denken   to think
+genommen - nehmen  to take
+getan - tun    to do
+gedurft - dürfen   may, to be allowed
+gehalten - halten  to stop, hold
+erhalten - erhalten    to receive
+genannt - nennen   to name, to call (a name)
+gemocht - mögen    to like
+gesprochen - sprechen  to speak
+entsprochen - entsprechen  to correspond
+gebracht - bringen to bring, take
+gefahren - fahren  to drive, ride, go
+gekannt - kennen   to know
+erkannt - erkennen to recognize, admit
+gegolten - gelten  to be valid
+begonnen - beginnen    to begin
+geschrieben - schreiben    to write
+gelaufen - laufen  to run
+gesessen - sitzen  to sit
+gezogen - ziehen   to pull, move
+geschienen - scheinen  to shine, seem, appear
+erschienen - erscheinen    to appear

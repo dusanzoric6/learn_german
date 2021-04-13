@@ -77,9 +77,7 @@ def learn_this_list_english(list):
             print("")
         continue
 
-    correct_answers_percent = (round(((len(list_of_false) / len(list)) * 100), 1))
-    if correct_answers_percent != 100:
-        print("{} % of incorrect answers in first go".format(correct_answers_percent))
+    print_success_rate()
 
 
 def print_loading_percentage(count, target_words_list):

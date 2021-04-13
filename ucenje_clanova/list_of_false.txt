@@ -1,4 +1,2 @@
- computer – Der Computer
- miss – Der Fehl
- expression – Der Ausdruck
- plan – Der Plan
+ figure – Die Figur
+ college – Das College

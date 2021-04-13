@@ -26,16 +26,25 @@ def learn_this_list(list):
             print("-------------------------------------------------")
             print("")
         else:
-            print("false - " + artikel_real)
+            print("false - " + artikel_real + " " + german_word)
             list_of_false.append(line)
             with open('list_of_false.txt', 'w') as f:
                 for line in list_of_false:
                     f.write("%s\n" % line)
             print("-------------------------------------------------")
             print("")
+        continue
+
+    print_success_rate()
 
 
-with codecs.open("clanovi_list.txt", 'r', 'utf-8') as f:
+def print_success_rate():
+    correct_answers_percent = (round(((len(list_of_false) / len(target_words_list)) * 100), 1))
+    if correct_answers_percent != 100:
+        print("{} % of incorrect answers in first go".format(correct_answers_percent))
+
+
+with codecs.open("clanovi_list.txt", 'r', 'cp1252') as f:
     target_words_list = f.readlines()
 target_words_list = [x.strip() for x in target_words_list]
 target_words_list = [line.split(".", 1)[1] for line in target_words_list]
