@@ -1,22 +1,23 @@
-gedacht - denken   to think
-genommen - nehmen  to take
-getan - tun    to do
-gedurft - dürfen   may, to be allowed
-gehalten - halten  to stop, hold
-erhalten - erhalten    to receive
-genannt - nennen   to name, to call (a name)
-gemocht - mögen    to like
-gesprochen - sprechen  to speak
-entsprochen - entsprechen  to correspond
-gebracht - bringen to bring, take
-gefahren - fahren  to drive, ride, go
-gekannt - kennen   to know
-erkannt - erkennen to recognize, admit
-gegolten - gelten  to be valid
-begonnen - beginnen    to begin
-geschrieben - schreiben    to write
-gelaufen - laufen  to run
-gesessen - sitzen  to sit
-gezogen - ziehen   to pull, move
-geschienen - scheinen  to shine, seem, appear
-erschienen - erscheinen    to appear
+1 - Innere Stadt
+2 - Leopoldstadt
+3 - Landstraße
+4 - Wieden
+5 - Margareten
+6 - Mariahilf
+7 - Neubau
+8 - Josefstadt
+9 - Alsergrund
+10 - Favoriten
+11 - Simmering
+12 - Meidling
+13 - Hietzing
+14 - Penzing
+15 - Rudolfsheim-Fünfhaus
+16 - Ottakring
+17 - Hernals
+18 - Währing
+19 - Döbling
+20 - Brigittenau
+21 - Floridsdorf
+22 - Donaustadt
+23 - Liesing

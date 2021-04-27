@@ -1,2 +1,5 @@
- figure – Die Figur
  college – Das College
+ plan – Der Plan
+ bit – Die Bit
+ radio – Das Radio
+ drink – Das Getränk
