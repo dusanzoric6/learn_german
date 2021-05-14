@@ -1,24 +1,18 @@
-poceti - anzufangen
-dopustiti - erlauben
-neophodno je - es ist nötig
-ugasiti - ausschalten
-sprava - das Gerät
-cak - sogar
-navici se - sich gewöhnen an
-ekonomija - die Wirtschaft
-korisnik - der Nutzer
-navoditi - angeben
-pre svega - vor allem
-igracke - Spielwaren
-nuditi - bieten
-udobno - bequem
-musterija - der Kunde
-oceniti - bewerten
-savetovanje - die Beratung
-dotaci - anfassen
-stetiti - schaden
-resiti - lösen
-omiljen - beliebt
-uspesan - erfolgreich
-uspeh - der Erfolg
-pesacka zona - die Fußgängerzone
+slusalice - Kopfhörer
+stanodavac - der Vermieter
+osecam se dobro - ich fühle mich gut
+dobar znak - ein gutes Zeichen
+ostecenja - Schaden
+uslov - die Bedingung
+kolicina - die Menge
+potvrditi - bestätigen
+kolica - der Warenkorb
+dodati - hinzufügen
+proveriti - prüfen
+povrat - Rückgabe
+pravo - das Recht
+roba - Ware
+na slici - auf Bild
+naucen - erlernt
+prosiriti - erweitern
+dopuniti - ergänzen
