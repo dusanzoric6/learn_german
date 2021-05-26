@@ -102,8 +102,10 @@ def get_target_list():
     for line in target_words_list:
         german_art = ''
         german_word = ''
-        word_line_array = line.split(" - ")
 
+        if not (" - " in line): raise ValueError("LINE DOES NOT CONTAIN ' - '  >>>  " + line)
+
+        word_line_array = line.split(" - ")
         english_word = word_line_array[0]
 
         articles = ["der ", "die ", "das ", "Der ", "Die ", "Das "]
