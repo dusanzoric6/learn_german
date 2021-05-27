@@ -19,6 +19,6 @@ sediste - der Sitz
 generisati - erwirtschaften
 promet - der Umsatz
 uvek - stets
-u potrazi - auf der Suche
-zaklucak - der Abschluss
+u potrazi - auf der* Suche
+zakljucak - der Abschluss
 smer - die Fachrichtung
