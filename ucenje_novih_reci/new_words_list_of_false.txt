@@ -1,4 +1,2 @@
-delovati
-u porastu
-iznositi
-spremiti se za nesto
+aplikacija
+trzisno odeljenje
