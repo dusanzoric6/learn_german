@@ -32,9 +32,6 @@ def learn_this_list_german(target_words_list):
         else:
             print("false - " + word_complex.art + " " + word_complex.ger)
             list_of_false.append(word_complex)
-            with open('new_words_list_of_false.txt', 'w') as f:
-                for word_complex in list_of_false:
-                    f.write(word_complex.art + " " + word_complex.ger + "\n")
             print("-------------------------------------------------f")
             print("")
         continue
@@ -70,9 +67,6 @@ def learn_this_list_english(list):
         else:
             print("false - " + word_complex.eng)
             list_of_false.append(word_complex)
-            with open('new_words_list_of_false.txt', 'w') as f:
-                for word_complex in list_of_false:
-                    f.write(word_complex.eng + "\n")
             print("-------------------------------------------------f")
             print("")
         continue
