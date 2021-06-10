@@ -103,6 +103,7 @@ def get_target_list():
         english_word = word_line_array[0]
 
         articles = ["der ", "die ", "das ", "Der ", "Die ", "Das "]
+        # xxxxx = word_line_array[1].split().count();
         if any(x in word_line_array[1] for x in articles):
             german_art = word_line_array[1].split()[0]
             try:
