@@ -100,20 +100,21 @@ def get_target_list():
         if not (" - " in line): raise ValueError("LINE DOES NOT CONTAIN ' - '  >>>  " + line)
 
         word_line_array = line.split(" - ")
-        english_word = word_line_array[0]
+        english_part = word_line_array[0]
+        german_part = word_line_array[1]
 
         articles = ["der ", "die ", "das ", "Der ", "Die ", "Das "]
-        # xxxxx = word_line_array[1].split().count();
-        if any(x in word_line_array[1] for x in articles):
-            german_art = word_line_array[1].split()[0]
+        # if any(x in german_part for x in articles and len(german_part.split()) == 2):
+        if any(x in german_part for x in articles) and len(german_part.split()) == 2:
+            german_art = german_part.split()[0]
             try:
-                german_word = word_line_array[1].split()[1]
+                german_word = german_part.split()[1]
             except:
                 print(word_line_array)
         else:
-            german_word = word_line_array[1]
+            german_word = german_part
 
-        word_complex = WordComplex(english_word, german_art, german_word)
+        word_complex = WordComplex(english_part, german_art, german_word)
         word_complex_list.append(word_complex)
 
     shuffle(word_complex_list)
