@@ -1,6 +1,6 @@
 Snage i slabosti - Stärken und Schwächen
-od cega zavisi to - wovon hängt dass ab
-to zavisi od toga - dass hängt davon ab
+od cega zavisi to - wovon hängt das ab
+to zavisi od toga - das hängt davon ab
 iskren - ehrlich
 slusati - zuhören
 doneti odluku - eine Entscheidung treffen
@@ -9,7 +9,7 @@ promeniti - wechseln
 promena - der Wechsel
 nekoliko - einige
 dati otkaz - eine Stelle kündigen
-razmisliti - überlegen 
+razmisliti - überlegen
 putovati svakog dana - pendeln
 odvojen - getrennt
 selidba - der Umzug
