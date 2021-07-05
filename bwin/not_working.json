@@ -1,0 +1,112 @@
+POST http://qa2.bettingapi.bwin.com/v4/editBet/v1
+
+POST data:
+{
+"requestId": "fbadbec6-e754-4631-ae65-9d1c3485bd44",
+    "topUpAmount": "0.5",
+    "PayoutRequest": {
+        "requestId": "fbadbec6-e754-4631-ae65-9d1c3485bd44",
+        "bet":
+            {
+                "key": 0,
+                "betNumber": "1Y3NL2YSC3",
+                "payoutAcceptance": "AcceptAnyChanges",
+                "userExpectedPayout": "0.2"
+            }
+        },
+"BetPlacement": {
+  "requestId": "fbadbec6-e754-4631-ae65-9d1c3485bd44",
+  "language": "FR",
+  "betStationInfo": ,
+  "doubleBetPreventionMode": "Disabled",
+  "taxationModel": "OnStake",
+  "betSlips": [
+    {
+      "oddsAcceptanceMode": "Any",
+      "betSlipType": "Single",
+      "index": 0,
+      "stake": {
+        "currency": "EUR",
+        "amount": "0.7"
+      },
+      "walletBucket": "",
+      "bets": [
+        {
+          "index": 0,
+          "betType": "Result",
+          "oddsFormat": "European",
+          "odds": {
+    "European": 2.3
+},
+          "picks": [
+            {
+              "id": "159784645"
+            }
+          ],
+          "betDetails": [
+            {
+              "betDetailType": "Fixture",
+              "id": "29057305",
+              "textValue": {
+                "value": "FRENCH DUDE NR 1 - PIERRE RICHARD",
+                "sign": "OmNKrQ=="
+              }
+            },
+            {
+              "betDetailType": "Option",
+              "id": "159784645",
+              "textValue": {
+                "value": "FRENCH DUDE NR 1",
+                "sign": "GHgHSQ=="
+              }
+            },
+            {
+              "betDetailType": "Market",
+              "id": "47026448",
+              "textValue": {
+                "value": "Quelle équipe recevra le premier carton rouge ?",
+                "sign": "L3x2/A=="
+              }
+            },
+            {
+              "betDetailType": "Competition",
+              "id": "21055",
+              "textValue": {
+                "value": "BPOS Automation league - DO NOT TOUCH!!!",
+                "sign": "u9EN6A=="
+              }
+            },
+            {
+              "betDetailType": "Region",
+              "id": "167",
+              "textValue": {
+                "value": "Mozambique",
+                "sign": "FOKoYQ=="
+              }
+            },
+            {
+              "betDetailType": "Sport",
+              "id": "4",
+              "textValue": {
+                "value": "Football",
+                "sign": "wHv+fQ=="
+              }
+            }
+          ],
+          "additionalInformation": {
+            "informationItems": [
+              {
+                "key": "fixtureStartTime",
+                "value": "2021-07-07 18:00:00Z",
+                "valueType": "DateTime"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
+}
+
+[no cookies]
