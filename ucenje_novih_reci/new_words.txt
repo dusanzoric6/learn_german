@@ -1,16 +1,6 @@
-vlazno - feucht
-vlaznost - die Feuchtigkeit
-mokro - nass
-popularan - populär
-spadati u - gehören zu
-vec - bereits
-iseliti se - auswandern
-nastup - der Auftritt
-objaviti - veröffentlichen
-dostici - erreichen
-kao i - sowie
-pevac - der Sänger
-nasilje - Gewalt
-plesao sam - ich tanzte
-verovati u - glauben an
-lagati - lügen
+trank, getrunken - trinken
+flog, geflogen - fliegen
+zog, gezogen - ziehen
+kannte, gekannt - kennen
+nannte, genannt - nennen
+brachte, gebracht - bringen
