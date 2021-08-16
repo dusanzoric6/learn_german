@@ -16,3 +16,8 @@ half, geholfen - helfen
 stand, gestanden - stehen
 schrieb, geschrieben - schreiben
 blieb, geblieben - bleiben
+saß, gesessen - sitzen
+gefiel, gefallen - gefallen
+fiel, gefallen - fallen
+fror, gefroren - frieren
+hielt, gehalten - halten
