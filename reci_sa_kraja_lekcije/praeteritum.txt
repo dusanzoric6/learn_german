@@ -21,3 +21,12 @@ gefiel, gefallen - gefallen
 fiel, gefallen - fallen
 fror, gefroren - frieren
 hielt, gehalten - halten
+besichtigte - besichtigen (nur prateritum)
+verlor - verlieren (nur prateritum)
+aufstand - aufstehen (nur prateritum)
+kannte lernen - kennen lernen (nur prateritum)
+verließ - verlassen (nur prateritum)
+ließ - lassen (nur prateritum)
+anfing - anfangen (nur prateritum)
+ankam - ankommen (nur prateritum)
+wegging - weggehen (nur prateritum)

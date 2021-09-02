@@ -18,3 +18,5 @@ osigurati - sichern
 otkaz - die Kündigung
 ukupno - insgesamt
 doneti odluku - Entscheidung treffen
+
+
