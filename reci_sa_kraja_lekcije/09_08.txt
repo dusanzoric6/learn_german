@@ -40,11 +40,10 @@ zasluga - Verdienst
 prosecan - durchschnittlich
 opste - allgemein
 putnik - Pendler
-klatno - das Pendel
-doprinos - der Beitrag
-odbici - die Abzüge
+klatno - Pendel
+doprinos - Beitrag
+odbici - Abzüge
 tekuci mesec - laufender Monat
-iznos - der Betrag
+iznos - Betrag
 priloziti aplikaciju - einen Antrag stellen
-preduzece - das Unternehmen
-administracija - die Verwaltung
+preduzece - Unternehmen
