@@ -1,50 +1,12 @@
-skladiste - Lager
-odeljenje - Abteilung
-uprava - Geschäftsführung
-odgovoran - verantwortlich
-zatvaranje - Schließung
-boriti se - kämpfen
-predstavnik - Vertreter
-administracija - Verwaltung
-zahtevati - fordern
-pretiti - drohen
-pregovor - Verhandlung
-bezuspesan - erfolglos
-profitabilan - rentabel
-sluzbenik - Angestellte
-zaposleni - Beschäftigte
-dogovor - Einigung
-poslovni dogovor - Betriebsvereinbarung
-zastita od otkaza - Kündigungsschutz
-dati otkaz - kündigen
-porez - Steuer
-profesionalno iskusan - berufserfahren
-zaposlen - tätig
-vladati - beherrschen
-mogucnost napretka - Aufstiegsmöglichkeit
-biznis - Betrieb
-korisnicki servis - Kundendienst
-sistem - Anlage
-kopija sertifikata - Zeugniskopie
-profesionalna karijera - Berufliche Werdegang
-razvijati se - sich entwickeln
-tokom - während
-racun - Abrechnung
-obracun plate - Gehaltsabrechnung
-porezki razred - Steuerklasse
-bruto plata - Bruttogehalt
-dedukcija - Abzug
-porez na prihod - Lohnsteuer
-prihod - Einkommen
-zasluga - Verdienst
-prosecan - durchschnittlich
-opste - allgemein
-putnik - Pendler
-klatno - das Pendel
-doprinos - der Beitrag
-odbici - die Abzüge
-tekuci mesec - laufender Monat
-iznos - der Betrag
-priloziti aplikaciju - einen Antrag stellen
-preduzece - das Unternehmen
-administracija - die Verwaltung
+birati - wählen
+zastupati - vertreten
+nasuprot - gegenüber
+ustanova - Einrichtung
+usluga - Dienstleistung
+obecanje - Versprechen
+zastita zivotne sredine - Umweltschutz
+neophodan - nötig
+ljubazan - kulant
+zamena - Umtausch
+generalno - allgemein
+snizeno - reduziert
