@@ -141,8 +141,8 @@ def learn_again():
 target_list = get_target_list()
 list_of_false = []
 
-# learning_mode = "e"
-learning_mode = input("write GERMAN (g) or write ENGLISH (e) : ")
+learning_mode = "e"
+# learning_mode = input("write GERMAN (g) or write ENGLISH (e) : ")
 print("-------------------------------------------------f")
 
 if learning_mode == "g":
