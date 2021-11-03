@@ -17,6 +17,6 @@ saobracajni znak - das Verkehrzeichen
 pokrajina - das Bundesland
 ucestvovati u - teilnehmen an
 nezavisan - unabhängig
-protiv - wider 
+protiv - wider
 ponovo - wieder
 pomoci oko - helfen bei
