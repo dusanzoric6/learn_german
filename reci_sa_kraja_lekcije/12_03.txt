@@ -1,63 +1,31 @@
-erlaubt - dopusteno
-das Blatt - list
-die Autobahn - autoput
-Schienenersatzverkehr - usluga zamena sina
-lenken - navoditi
-warnen - upozoriti
-heben - podizati
-Freundeskreis - krug prijatelja
-Festung - tvrdjava
-das Boot - camac
-‰hnlich - slican
-gieﬂen - sipati
-der Zeuge - svedok
-untersuchen - pregledati
-W‰nde streichen - kreciti
-einen Spaziergang machen - praviti setnju
-spazieren gehen - ici setati
-als ob ich - kao da sam ja
-als ob ich in einem Wald w‰re - kao da sam u sumi
-die Wohngemeinschaft - deljen stan
-er wohnt in einer WG
-
-das Geschirr wurde...
-
-das Blatt
-
-erlaubt
-
-warnen - die Warnung
-
-besichtigen
-
-sicht
-
-SEV
-
-
-sara, 5:59 PM
-fallen
-
-ausfallen -
-
-die Fluggesellschaft - air company
-
-versorgen -
-
-da - tamo, tada, posto
-
-der bub -der Junge
-
-Bub
-
-der Fuﬂg‰nger - pesak
-
-die Fuﬂg‰ngerzone
-
-streichen - gestrichen
-
-
-sara, 6:25 PM
-der Schaden - steta
-
-sch‰tzen - proceniti
+dopusteno - erlaubt
+list - das Blatt
+autoput - die Autobahn
+navoditi - lenken
+upozoriti - warnen
+podizati - heben
+krug prijatelja - Freundeskreis
+tvrdjava - Festung
+camac - das Boot
+slican - ‰hnlich
+sipati - gieﬂen
+svedok - der Zeuge
+pregledati - untersuchen
+kreciti zidove - W‰nde streichen
+praviti setnju - einen Spaziergang machen
+ici setati - spazieren gehen
+kao da sam ja - als ob ich
+kao da sam u sumi - als ob ich in einem Wald w‰re
+deljen stan - die Wohngemeinschaft
+dopusteno - erlaubt
+upozorenje - die Warnung
+posetiti - besichtigen
+padati - fallen
+ispasti - ausfallen
+airline - die Fluggesellschaft
+snabdeti - versorgen
+dete - Bub
+pesak - der Fuﬂg‰nger
+otkazano - gestrichen
+steta - der Schaden
+proceniti - sch‰tzen

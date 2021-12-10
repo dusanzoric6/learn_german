@@ -31,3 +31,4 @@ konsultovati - befragen
 odvuci - abschleppen
 preusmeriti - umleiten
 povredjeni - die Verletzten
+
