@@ -15,3 +15,6 @@ propisan - vorgeschrieben
 zakon - das Gesetz
 prouzrokovati - verursachen
 uzrok - die Ursache
+zabranjeno pusenje - Rauchen verboten
+ili ili - entweder oder
+slepa ulica - die Sackgasse
