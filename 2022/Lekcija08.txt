@@ -1,48 +1,48 @@
-der Start - start
-der Inhaber - vlasnik
-leiten - sprovesti
-reichen - proslediti
-hart - tesko
-weiterempfehlen - preporuciti
-die Verantwortung - odgovornost
-Entscheidungen treffen - doneti odluku
-sich selbstständig machen - postati samostalan
-das Berufsleben - radni vek
-der Existenzgründer - preduzetnik
-die Unternehmensführung - rukovodstvo kompanije
-Das Geschäft läuft gut - posao ide dobro
-die Geschäftsidee - poslovna ideja
-die Niederlassung - grana
-schwerfallen - biti tesko
-beschließen - odluciti
-stolz - ponosno
-ein Wunsch erfüllen - ispuniti zelju
-kaum - jedva
-entwickeln - razviti
-lohnen sich - isplatilo se
-ziemlich - poprilicno
-inzwischen - u medjuvremenu
-das Finanzamt - poresko
-das Gewerbe - biznis
-einrichten - namestiti
-die Finanzierung - finansiranje
-fachlich - profesionalni
-die Branche - bransa
-das Ziel - cilj
-ein Ziel erreichen - postici cilj
-entscheiden - odluciti
-der Ratschlag - savet
-auskennen - znati o
-versuchen - pokusati
-die Anregung - sugestija
-die Dienstleistung - usluga
-das Förderprogramm - program finansiranja
-Finanzberater - finansijski savetnik
-der Standort - lokacija
-Lieferant - snabdevac
-das Eigenkapital - kapital
-Schulden - dugovi
-die Unterlagen - dokumenta
+start - der Start
+vlasnik - der Inhaber
+voditi - leiten
+proslediti - reichen
+tesko - hart
+preporuciti - weiterempfehlen
+odgovornost - die Verantwortung
+doneti odluku - Entscheidungen treffen
+osamostaliti se - sich selbstständig machen
+radni vek - das Berufsleben
+preduzetnik - der Existenzgründer
+rukovodstvo kompanije - die Unternehmensführung
+posao ide dobro - Das Geschäft läuft gut
+poslovna ideja - die Geschäftsidee
+grana - die Niederlassung
+biti tesko - schwerfallen
+odluciti - beschließen
+ponosno - stolz
+ispuniti zelju - ein Wunsch erfüllen
+jedva - kaum
+razviti - entwickeln
+isplatilo se - lohnen sich
+poprilicno - ziemlich
+u medjuvremenu - inzwischen
+poresko - das Finanzamt
+biznis - das Gewerbe
+namestiti - einrichten
+finansiranje - die Finanzierung
+profesionalni - fachlich
+bransa - die Branche
+cilj - das Ziel
+postici cilj - ein Ziel erreichen
+odluciti - entscheiden
+savet - der Ratschlag
+znati o - auskennen
+pokusati - versuchen
+sugestija - die Anregung
+usluga - die Dienstleistung
+program finansiranja - das Förderprogramm
+finansijski savetnik - Finanzberater
+lokacija - der Standort
+snabdevac - Lieferant
+kapital - das Eigenkapital
+dugovi - Schulden
+dokumenta - die Unterlagen
 
 
 
