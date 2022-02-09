@@ -22,3 +22,27 @@ entwickeln - razviti
 lohnen sich - isplatilo se
 ziemlich - poprilicno
 inzwischen - u medjuvremenu
+das Finanzamt - poresko
+das Gewerbe - biznis
+einrichten - namestiti
+die Finanzierung - finansiranje
+fachlich - profesionalni
+die Branche - bransa
+das Ziel - cilj
+ein Ziel erreichen - postici cilj
+entscheiden - odluciti
+der Ratschlag - savet
+auskennen - znati o
+versuchen - pokusati
+die Anregung - sugestija
+die Dienstleistung - usluga
+das Förderprogramm - program finansiranja
+Finanzberater - finansijski savetnik
+der Standort - lokacija
+Lieferant - snabdevac
+das Eigenkapital - kapital
+Schulden - dugovi
+die Unterlagen - dokumenta
+
+
+
