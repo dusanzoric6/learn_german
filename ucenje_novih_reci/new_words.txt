@@ -1,17 +1,9 @@
-hrabrost - der Mut
-snalaziti se - sich auskennen
-porez - Steuern
-podsticaj - die Anregung
+sugestija - die Anregung
 usluga - die Dienstleistung
-neophodan - nötig
-mere - Maßnahmen
-priznati - anerkennen
-kao da - als ob
-zavisi od toga - es hängt davon ab
-napasti - angreifen
-pobeci - fliehen
-pojam - der Begriff
-kuvar - der Koch
-dostici - erreichen
-zec - der Hase
-lav - der Löwe
+program finansiranja - das Förderprogramm
+finansijski savetnik - Finanzberater
+lokacija - der Standort
+snabdevac - Lieferant
+kapital - das Eigenkapital
+dugovi - Schulden
+dokumenta - die Unterlagen

@@ -1,0 +1,77 @@
+gearbeitet - to work	arbeiten
+geatmet - to breathe	atmen
+gebildet - to form	bilden
+gebraucht - to need	brauchen
+gefolgt - to follow	folgen
+gefragt - to ask	fragen
+gefühlt - to feel	fühlen
+geglaubt - to believe	glauben
+interessiert - to interest	interessieren
+gekauft - to buy	kaufen
+gekocht - to cook	kochen
+gelebt - to live	leben
+gelegt - to lay	legen
+gemacht - to make / do	machen
+notiert - to note down	notieren
+gepackt - to pack	packen
+geredet - to talk	reden
+gesagt - to say	sagen
+gespielt - to play	spielen
+gestellt - to put / place	stellen
+gesucht - to search	suchen
+getanzt - to dance	tanzen
+telefoniert - to call	telefonieren
+gewohnt - to reside / live	wohnen
+gezeigt - to show	zeigen
+gesollt - to be supposed to	sollen
+gewollt - to want	wollen
+geboten - to offer	bieten
+gebissen - to bite	beißen
+gebunden - to bind	binden
+gebeten - to request	bitten
+gebraten - to roast / fry	braten
+gebrochen - to break	brechen
+gegessen - to eat	essen
+gefahren - to drive	fahren
+gefallen - to fall	fallen
+gefangen - to catch	fangen
+gefunden - to find	finden
+geflogen - to fly	fliegen
+gegeben - to give	geben
+gegossen - to pour	gießen
+gegriffen - to grasp / grab	greifen
+gehalten - to stop	halten
+gehoben - to lift	heben
+geholfen - to help	helfen
+geklungen - to sound	klingen
+gekommen - to come	kommen
+gelaufen - to run	laufen
+gelesen - to read	lesen
+geliehen - to lend	leihen
+gelegen - to lie	liegen
+genommen - to take	nehmen
+geritten - to ride	reiten
+gerochen - to smell	riechen
+geschlossen - to close	schließen
+geschnitten - to cut	schneiden
+geschrieben - to write	schreiben
+geschwommen - to swim	schwimmen
+gesehen - to see	sehen
+gewesen - to be	sein
+gesungen - to sing	singen
+gesunken - to sink	sinken
+gesessen - to sit	sitzen
+gesprochen - to speak	sprechen
+gesprungen - to jump	springen
+gestanden - to stand	stehen
+gestiegen - to climb	steigen
+gestorben - to die	sterben
+gestritten - to argue	streiten
+getragen - to wear	tragen
+getroffen - to meet	treffen
+getrunken - to drink	trinken
+gewaschen - to wash	waschen
+geworden - to become	werden
+geworfen - to throw	werfen
+gezogen - to pull	ziehen
+gezwungen - to force	zwingen
