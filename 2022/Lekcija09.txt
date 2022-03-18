@@ -1,48 +1,35 @@
-start - der Start
-vlasnik - der Inhaber
-voditi - leiten
-proslediti - reichen
-tesko - hart
-preporuciti - weiterempfehlen
-odgovornost - die Verantwortung
-doneti odluku - Entscheidungen treffen
-osamostaliti se - sich selbstständig machen
-radni vek - das Berufsleben
-preduzetnik - der Existenzgründer
-rukovodstvo kompanije - die Unternehmensführung
-posao ide dobro - Das Geschäft läuft gut
-poslovna ideja - die Geschäftsidee
-grana - die Niederlassung
-biti tesko - schwerfallen
-odluciti - beschließen
-ponosan - stolz
-ispuniti zelju - ein Wunsch erfüllen
-jedva - kaum
-razviti - entwickeln
-isplatilo se - lohnen sich
-poprilicno - ziemlich
-u medjuvremenu - inzwischen
-poresko - das Finanzamt
-biznis - das Gewerbe
-namestiti - einrichten
-finansiranje - die Finanzierung
-profesionalni - fachlich
-bransa - die Branche
-cilj - das Ziel
-postici cilj - ein Ziel erreichen
-odluciti - entscheiden
-savet - der Ratschlag
-znati o - auskennen
-pokusati - versuchen
-sugestija - die Anregung
-usluga - die Dienstleistung
-program finansiranja - das Förderprogramm
-finansijski savetnik - Finanzberater
-lokacija - der Standort
-snabdevac - Lieferant
-kapital - das Eigenkapital
-dugovi - Schulden
-dokumenta - die Unterlagen
+der Bach - potok
+das Tal - uvala
+das Gebirge - planina
+die Landschaft - pejzaz
+die Landwirtschaft - poljoprivreda
+der Klimawandel - klimatske promene
 
+Pflanzenarten - biljne vrste
+heizen - zagrevanje
+abschalten - iskljuciti
 
+der Umweltschutz - zastita zivotne sredine
+das Kohlekraftwerk - termo elektrana
+der Rohstoff - sirovi materijal
+Abgase - izduvni gasovi
+verschmutzen - zagadjivanje
 
+das Hochwasser - poplava
+die Mülltrennung - odvajanje otpada
+verschwenden - tracenje
+gering - mala kolicina
+Naturschutzgebiet - rezervat prirode
+
+erneuerbar - obnovljivi
+lebenswichtig - vitalni
+sparsam - ekonomicni
+die Kernenergie - nuklearna energija
+der Atommüll - nuklearni otpad
+schädlich - stetni
+
+der Abfall - smece
+die Müllentsorgung - odlaganje smeca
+entsorgen - odbaciti
+der Restmüll - ostalo smece
+der Akku - baterija
