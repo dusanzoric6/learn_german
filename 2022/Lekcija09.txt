@@ -1,35 +1,30 @@
-der Bach - potok
-das Tal - uvala
-das Gebirge - planina
-die Landschaft - pejzaz
-die Landwirtschaft - poljoprivreda
-der Klimawandel - klimatske promene
-
-Pflanzenarten - biljne vrste
-heizen - zagrevanje
-abschalten - iskljuciti
-
-der Umweltschutz - zastita zivotne sredine
-das Kohlekraftwerk - termo elektrana
-der Rohstoff - sirovi materijal
-Abgase - izduvni gasovi
-verschmutzen - zagadjivanje
-
-das Hochwasser - poplava
-die Mülltrennung - odvajanje otpada
-verschwenden - tracenje
-gering - mala kolicina
-Naturschutzgebiet - rezervat prirode
-
-erneuerbar - obnovljivi
-lebenswichtig - vitalni
-sparsam - ekonomicni
-die Kernenergie - nuklearna energija
-der Atommüll - nuklearni otpad
-schädlich - stetni
-
-der Abfall - smece
-die Müllentsorgung - odlaganje smeca
-entsorgen - odbaciti
-der Restmüll - ostalo smece
-der Akku - baterija
+potok - der Bach
+uvala - das Tal
+planina - das Gebirge
+pejzaz - die Landschaft
+poljoprivreda - die Landwirtschaft
+klimatske promene - der Klimawandel
+biljne vrste - Pflanzenarten
+zagrevati - heizen
+iskljuciti - abschalten
+zastita zivotne sredine - der Umweltschutz
+termo elektrana - das Kohlekraftwerk
+sirovi materijal - der Rohstoff
+izduvni gasovi - Abgase
+zagadjivati - verschmutzen
+poplava - das Hochwasser
+odvajanje otpada - die Mülltrennung
+tracenje - verschwenden
+mala kolicina - gering
+rezervat prirode - Natutrschutzgebiet
+obnovljivi - erneuerbar
+vitalni - lebenswichtig
+ekonomicni - sparsam
+nuklearna energija - die Kernenergie
+nuklearni otpad - der Atommüll
+stetni - schädlich
+smece - der Abfall
+odlaganje smeca - die Müllentsorgung
+odbaciti - entsorgen
+ostalo smece - der Restmüll
+baterija - der Akku

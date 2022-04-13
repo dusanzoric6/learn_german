@@ -1,6 +1,6 @@
-arbeiten, hat gearbeitet,
-helfen, hat geholfen
-retten - hat gerettet
-schreiben - hat geschrieben
-erben , hat geerbt - naslediti
-umziehen - ist umgezogen - preseliti se
+hat gearbeitet - arbeiten
+hat geholfen - helfen
+hat gerettet - retten
+hat geschrieben - schreiben
+hat geerbt - erben
+ist umgezogen - umziehen
