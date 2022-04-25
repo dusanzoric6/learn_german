@@ -1,0 +1,10 @@
+{
+  "simulation": "simpulations.GitHubSimulation",
+  "simulationId": "githubsimulation",
+  "start": 1650531984377,
+  "description": "qwe",
+  "scenarios": ["GitHub_Scenario"],
+  "assertions": [
+
+  ]
+}

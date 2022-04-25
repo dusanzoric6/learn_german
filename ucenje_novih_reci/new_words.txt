@@ -1,24 +1,39 @@
-schöner am schönsten - schön
-braver am bravsten - brav
-fauler am faulsten - faul
-lustiger am lustigsten - lustig
-wärmer am wärmsten - warm
-kälter am kältesten - kalt
-langsamer am langsamsten - langsam
-schneller am schnellsten - schnell
-besser am besten - gut
-jünger am jüngsten - jung
-älter am ältesten - alt
-billiger am billigsten - billig
-teurer am teuersten - teuer
-dicker am dicksten - dick
-dünner am dünnsten - dünn
-lauter am lautesten - laut
-kleiner am kleinsten - klein
-größer am größten - groß
-lieber am liebsten - lieb
-leiser am leisesten - leise
-stärker am stärksten - stark
-schwächer am schwächsten - schwach
-dümmer am dümmsten - dumm
-fleißiger am fleißigsten - fleißig
+potok - der Bach
+uvala - das Tal
+planina - das Gebirge
+pejzaz - die Landschaft
+poljoprivreda - die Landwirtschaft
+klimatske promene - der Klimawandel
+biljne vrste - Pflanzenarten
+zagrevati - heizen
+iskljuciti - abschalten
+zastita zivotne sredine - der Umweltschutz
+termo elektrana - das Kohlekraftwerk
+sirovi materijal - der Rohstoff
+izduvni gasovi - Abgase
+zagadjivati - verschmutzen
+poplava - das Hochwasser
+odvajanje otpada - die Mülltrennung
+tracenje - verschwenden
+mala kolicina - gering
+rezervat prirode - Natutrschutzgebiet
+obnovljivi - erneuerbar
+vitalni - lebenswichtig
+ekonomicni - sparsam
+nuklearna energija - die Kernenergie
+nuklearni otpad - der Atommüll
+stetni - schädlich
+smece - der Abfall
+odlaganje smeca - die Müllentsorgung
+odbaciti - entsorgen
+ostalo smece - der Restmüll
+baterija - der Akku
+
+
+bleiben - ist geblieben
+Momir Samardži?18:04
+sich aufregen -uznemiriti se
+Momir Samardži?18:28
+ziehen - zog - gezogen
+Momir Samardži?18:36
+die Grünfläche - zelena povrsina
