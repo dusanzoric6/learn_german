@@ -1,0 +1,1038 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="11.693" tests="5" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\Users\dusan.zoric\IdeaProjects\GitHubApiTests\target\test-classes;C:\Users\dusan.zoric\IdeaProjects\GitHubApiTests\target\classes;C:\Users\dusan.zoric\.m2\repository\com\google\code\gson\gson\2.6.2\gson-2.6.2.jar;C:\Users\dusan.zoric\.m2\repository\com\jayway\restassured\rest-assured\2.9.0\rest-assured-2.9.0.jar;C:\Users\dusan.zoric\.m2\repository\org\codehaus\groovy\groovy\2.4.4\groovy-2.4.4.jar;C:\Users\dusan.zoric\.m2\repository\org\codehaus\groovy\groovy-xml\2.4.4\groovy-xml-2.4.4.jar;C:\Users\dusan.zoric\.m2\repository\org\apache\httpcomponents\httpclient\4.5.1\httpclient-4.5.1.jar;C:\Users\dusan.zoric\.m2\repository\org\apache\httpcomponents\httpcore\4.4.3\httpcore-4.4.3.jar;C:\Users\dusan.zoric\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\dusan.zoric\.m2\repository\commons-codec\commons-codec\1.9\commons-codec-1.9.jar;C:\Users\dusan.zoric\.m2\repository\org\apache\httpcomponents\httpmime\4.5.1\httpmime-4.5.1.jar;C:\Users\dusan.zoric\.m2\repository\org\hamcrest\hamcrest-library\1.3\hamcrest-library-1.3.jar;C:\Users\dusan.zoric\.m2\repository\org\ccil\cowan\tagsoup\tagsoup\1.2.1\tagsoup-1.2.1.jar;C:\Users\dusan.zoric\.m2\repository\com\jayway\restassured\json-path\2.9.0\json-path-2.9.0.jar;C:\Users\dusan.zoric\.m2\repository\org\codehaus\groovy\groovy-json\2.4.4\groovy-json-2.4.4.jar;C:\Users\dusan.zoric\.m2\repository\com\jayway\restassured\rest-assured-common\2.9.0\rest-assured-common-2.9.0.jar;C:\Users\dusan.zoric\.m2\repository\com\jayway\restassured\xml-path\2.9.0\xml-path-2.9.0.jar;C:\Users\dusan.zoric\.m2\repository\org\apache\commons\commons-lang3\3.3.2\commons-lang3-3.3.2.jar;C:\Users\dusan.zoric\.m2\repository\javax\xml\bind\jaxb-api\2.3.1\jaxb-api-2.3.1.jar;C:\Users\dusan.zoric\.m2\repository\javax\activation\javax.activation-api\1.2.0\javax.activation-api-1.2.0.jar;C:\Users\dusan.zoric\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.13.0\jackson-databind-2.13.0.jar;C:\Users\dusan.zoric\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.13.0\jackson-annotations-2.13.0.jar;C:\Users\dusan.zoric\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.13.0\jackson-core-2.13.0.jar;C:\Users\dusan.zoric\.m2\repository\io\cucumber\cucumber-java\6.10.4\cucumber-java-6.10.4.jar;C:\Users\dusan.zoric\.m2\repository\io\cucumber\cucumber-core\6.10.4\cucumber-core-6.10.4.jar;C:\Users\dusan.zoric\.m2\repository\io\cucumber\cucumber-gherkin\6.10.4\cucumber-gherkin-6.10.4.jar;C:\Users\dusan.zoric\.m2\repository\io\cucumber\cucumber-gherkin-messages\6.10.4\cucumber-gherkin-messages-6.10.4.jar;C:\Users\dusan.zoric\.m2\repository\io\cucumber\messages\15.0.0\messages-15.0.0.jar;C:\Users\dusan.zoric\.m2\repository\io\cucumber\tag-expressions\3.0.1\tag-expressions-3.0.1.jar;C:\Users\dusan.zoric\.m2\repository\io\cucumber\cucumber-expressions\10.3.0\cucumber-expressions-10.3.0.jar;C:\Users\dusan.zoric\.m2\repository\io\cucumber\datatable\3.5.0\datatable-3.5.0.jar;C:\Users\dusan.zoric\.m2\repository\io\cucumber\cucumber-plugin\6.10.4\cucumber-plugin-6.10.4.jar;C:\Users\dusan.zoric\.m2\repository\io\cucumber\docstring\6.10.4\docstring-6.10.4.jar;C:\Users\dusan.zoric\.m2\repository\io\cucumber\html-formatter\13.0.0\html-formatter-13.0.0.jar;C:\Users\dusan.zoric\.m2\repository\io\cucumber\create-meta\4.0.0\create-meta-4.0.0.jar;C:\Users\dusan.zoric\.m2\repository\org\apiguardian\apiguardian-api\1.1.1\apiguardian-api-1.1.1.jar;C:\Users\dusan.zoric\.m2\repository\io\cucumber\cucumber-testng\6.10.4\cucumber-testng-6.10.4.jar;C:\Users\dusan.zoric\.m2\repository\org\testng\testng\7.4.0\testng-7.4.0.jar;C:\Users\dusan.zoric\.m2\repository\com\beust\jcommander\1.78\jcommander-1.78.jar;C:\Users\dusan.zoric\.m2\repository\org\webjars\jquery\3.5.1\jquery-3.5.1.jar;C:\Users\dusan.zoric\.m2\repository\io\cucumber\cucumber-picocontainer\7.0.0\cucumber-picocontainer-7.0.0.jar;C:\Users\dusan.zoric\.m2\repository\org\picocontainer\picocontainer\2.15\picocontainer-2.15.jar;C:\Users\dusan.zoric\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="user.timezone" value="Europe/Berlin"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_231\jre\bin"/>
+    <property name="sun.java.command" value="C:\Users\dusan.zoric\AppData\Local\Temp\surefire5282011501799891184\surefirebooter5902849391161171247.jar C:\Users\dusan.zoric\AppData\Local\Temp\surefire5282011501799891184 2022-04-24T19-21-33_495-jvmRun1 surefire8137809875169531747tmp surefire_06537094986900243959tmp"/>
+    <property name="surefire.test.class.path" value="C:\Users\dusan.zoric\IdeaProjects\GitHubApiTests\target\test-classes;C:\Users\dusan.zoric\IdeaProjects\GitHubApiTests\target\classes;C:\Users\dusan.zoric\.m2\repository\com\google\code\gson\gson\2.6.2\gson-2.6.2.jar;C:\Users\dusan.zoric\.m2\repository\com\jayway\restassured\rest-assured\2.9.0\rest-assured-2.9.0.jar;C:\Users\dusan.zoric\.m2\repository\org\codehaus\groovy\groovy\2.4.4\groovy-2.4.4.jar;C:\Users\dusan.zoric\.m2\repository\org\codehaus\groovy\groovy-xml\2.4.4\groovy-xml-2.4.4.jar;C:\Users\dusan.zoric\.m2\repository\org\apache\httpcomponents\httpclient\4.5.1\httpclient-4.5.1.jar;C:\Users\dusan.zoric\.m2\repository\org\apache\httpcomponents\httpcore\4.4.3\httpcore-4.4.3.jar;C:\Users\dusan.zoric\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\dusan.zoric\.m2\repository\commons-codec\commons-codec\1.9\commons-codec-1.9.jar;C:\Users\dusan.zoric\.m2\repository\org\apache\httpcomponents\httpmime\4.5.1\httpmime-4.5.1.jar;C:\Users\dusan.zoric\.m2\repository\org\hamcrest\hamcrest-library\1.3\hamcrest-library-1.3.jar;C:\Users\dusan.zoric\.m2\repository\org\ccil\cowan\tagsoup\tagsoup\1.2.1\tagsoup-1.2.1.jar;C:\Users\dusan.zoric\.m2\repository\com\jayway\restassured\json-path\2.9.0\json-path-2.9.0.jar;C:\Users\dusan.zoric\.m2\repository\org\codehaus\groovy\groovy-json\2.4.4\groovy-json-2.4.4.jar;C:\Users\dusan.zoric\.m2\repository\com\jayway\restassured\rest-assured-common\2.9.0\rest-assured-common-2.9.0.jar;C:\Users\dusan.zoric\.m2\repository\com\jayway\restassured\xml-path\2.9.0\xml-path-2.9.0.jar;C:\Users\dusan.zoric\.m2\repository\org\apache\commons\commons-lang3\3.3.2\commons-lang3-3.3.2.jar;C:\Users\dusan.zoric\.m2\repository\javax\xml\bind\jaxb-api\2.3.1\jaxb-api-2.3.1.jar;C:\Users\dusan.zoric\.m2\repository\javax\activation\javax.activation-api\1.2.0\javax.activation-api-1.2.0.jar;C:\Users\dusan.zoric\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.13.0\jackson-databind-2.13.0.jar;C:\Users\dusan.zoric\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.13.0\jackson-annotations-2.13.0.jar;C:\Users\dusan.zoric\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.13.0\jackson-core-2.13.0.jar;C:\Users\dusan.zoric\.m2\repository\io\cucumber\cucumber-java\6.10.4\cucumber-java-6.10.4.jar;C:\Users\dusan.zoric\.m2\repository\io\cucumber\cucumber-core\6.10.4\cucumber-core-6.10.4.jar;C:\Users\dusan.zoric\.m2\repository\io\cucumber\cucumber-gherkin\6.10.4\cucumber-gherkin-6.10.4.jar;C:\Users\dusan.zoric\.m2\repository\io\cucumber\cucumber-gherkin-messages\6.10.4\cucumber-gherkin-messages-6.10.4.jar;C:\Users\dusan.zoric\.m2\repository\io\cucumber\messages\15.0.0\messages-15.0.0.jar;C:\Users\dusan.zoric\.m2\repository\io\cucumber\tag-expressions\3.0.1\tag-expressions-3.0.1.jar;C:\Users\dusan.zoric\.m2\repository\io\cucumber\cucumber-expressions\10.3.0\cucumber-expressions-10.3.0.jar;C:\Users\dusan.zoric\.m2\repository\io\cucumber\datatable\3.5.0\datatable-3.5.0.jar;C:\Users\dusan.zoric\.m2\repository\io\cucumber\cucumber-plugin\6.10.4\cucumber-plugin-6.10.4.jar;C:\Users\dusan.zoric\.m2\repository\io\cucumber\docstring\6.10.4\docstring-6.10.4.jar;C:\Users\dusan.zoric\.m2\repository\io\cucumber\html-formatter\13.0.0\html-formatter-13.0.0.jar;C:\Users\dusan.zoric\.m2\repository\io\cucumber\create-meta\4.0.0\create-meta-4.0.0.jar;C:\Users\dusan.zoric\.m2\repository\org\apiguardian\apiguardian-api\1.1.1\apiguardian-api-1.1.1.jar;C:\Users\dusan.zoric\.m2\repository\io\cucumber\cucumber-testng\6.10.4\cucumber-testng-6.10.4.jar;C:\Users\dusan.zoric\.m2\repository\org\testng\testng\7.4.0\testng-7.4.0.jar;C:\Users\dusan.zoric\.m2\repository\com\beust\jcommander\1.78\jcommander-1.78.jar;C:\Users\dusan.zoric\.m2\repository\org\webjars\jquery\3.5.1\jquery-3.5.1.jar;C:\Users\dusan.zoric\.m2\repository\io\cucumber\cucumber-picocontainer\7.0.0\cucumber-picocontainer-7.0.0.jar;C:\Users\dusan.zoric\.m2\repository\org\picocontainer\picocontainer\2.15\picocontainer-2.15.jar;C:\Users\dusan.zoric\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\dusan.zoric"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_231\jre"/>
+    <property name="basedir" value="C:\Users\dusan.zoric\IdeaProjects\GitHubApiTests"/>
+    <property name="file.separator" value="\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\dusan.zoric\AppData\Local\Temp\surefire5282011501799891184\surefirebooter5902849391161171247.jar"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_231\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_231\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_231\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_231\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_231\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_231\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_231\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_231\jre\classes"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="1.8.0_231-b11"/>
+    <property name="user.name" value="Dusan.Zoric"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_231\jre\lib\endorsed"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\dusan.zoric\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\DUSAN~1.ZOR\AppData\Local\Temp\"/>
+    <property name="java.version" value="1.8.0_231"/>
+    <property name="user.dir" value="C:\Users\dusan.zoric\IdeaProjects\GitHubApiTests"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_231\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\Git\cmd;C:\Program Files\Azure Data Studio\bin;C:\Program Files (x86)\dotnet\;C:\Users\dusan.zoric\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\dusan.zoric\AppData\Local\Programs\Python\Python310\;C:\Users\dusan.zoric\AppData\Local\Microsoft\WindowsApps;C:\Users\dusan.zoric\.dotnet\tools;C:\Program Files\Java\jdk1.8.0_231\bin;C:\Program Files\JetBrains\PyCharm Community Edition 2021.1.1\bin;C:\Users\dusan.zoric\AppData\Local\Programs\Fiddler;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.3.3\bin;;C:\Program Files\Java\jdk-11.0.13\bin;C:\Program Files\apache-maven-3.8.5\bin;C:\Program Files\scala3-3.1.0\bin;;."/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="25.231-b11"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_231\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="52.0"/>
+  </properties>
+  <testcase name="runScenario[&quot;POSITIVE : Create new repository&quot;, &quot;Optional[Git Hub features]&quot;](1)" classname="Runners.Run" time="4.971">
+    <system-out><![CDATA[Request method:	POST
+Request path:	https://api.github.com/user/repos
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Multiparts:		<none>
+Headers:		Authorization=Bearer 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
+				Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Body:
+{
+    "name": "repo1334",
+    "gitignore_template": "nanoc",
+    "private": true,
+    "auto_init": true
+}
+HTTP/1.1 201 Created
+Server: GitHub.com
+Date: Sun, 24 Apr 2022 17:21:41 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 5141
+Cache-Control: private, max-age=60, s-maxage=60
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+ETag: "b98c871a967b7362540e145cd7eae5a24a876717544eedaf209c1c9c5b3ce31e"
+X-OAuth-Scopes: admin:enterprise, admin:gpg_key, admin:org, admin:org_hook, admin:public_key, admin:repo_hook, delete:packages, delete_repo, gist, notifications, repo, user, workflow, write:discussion, write:packages
+X-Accepted-OAuth-Scopes: public_repo, repo
+github-authentication-token-expiration: 2022-06-18 18:19:06 UTC
+Location: https://api.github.com/repos/duanzoric6/repo1334
+X-GitHub-Media-Type: github.v3; format=json
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4988
+X-RateLimit-Reset: 1650824267
+X-RateLimit-Used: 12
+X-RateLimit-Resource: core
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Used, X-RateLimit-Resource, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type, X-GitHub-SSO, X-GitHub-Request-Id, Deprecation, Sunset
+Access-Control-Allow-Origin: *
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+X-Frame-Options: deny
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 0
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Content-Security-Policy: default-src 'none'
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-GitHub-Request-Id: C387:2726:2FE2EF3:30FC552:62658724
+
+{
+    "id": 485092341,
+    "node_id": "R_kgDOHOnr9Q",
+    "name": "repo1334",
+    "full_name": "duanzoric6/repo1334",
+    "private": true,
+    "owner": {
+        "login": "duanzoric6",
+        "id": 101993487,
+        "node_id": "U_kgDOBhRMDw",
+        "avatar_url": "https://avatars.githubusercontent.com/u/101993487?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/duanzoric6",
+        "html_url": "https://github.com/duanzoric6",
+        "followers_url": "https://api.github.com/users/duanzoric6/followers",
+        "following_url": "https://api.github.com/users/duanzoric6/following{/other_user}",
+        "gists_url": "https://api.github.com/users/duanzoric6/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/duanzoric6/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/duanzoric6/subscriptions",
+        "organizations_url": "https://api.github.com/users/duanzoric6/orgs",
+        "repos_url": "https://api.github.com/users/duanzoric6/repos",
+        "events_url": "https://api.github.com/users/duanzoric6/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/duanzoric6/received_events",
+        "type": "User",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/duanzoric6/repo1334",
+    "description": null,
+    "fork": false,
+    "url": "https://api.github.com/repos/duanzoric6/repo1334",
+    "forks_url": "https://api.github.com/repos/duanzoric6/repo1334/forks",
+    "keys_url": "https://api.github.com/repos/duanzoric6/repo1334/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/duanzoric6/repo1334/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/duanzoric6/repo1334/teams",
+    "hooks_url": "https://api.github.com/repos/duanzoric6/repo1334/hooks",
+    "issue_events_url": "https://api.github.com/repos/duanzoric6/repo1334/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/duanzoric6/repo1334/events",
+    "assignees_url": "https://api.github.com/repos/duanzoric6/repo1334/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/duanzoric6/repo1334/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/duanzoric6/repo1334/tags",
+    "blobs_url": "https://api.github.com/repos/duanzoric6/repo1334/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/duanzoric6/repo1334/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/duanzoric6/repo1334/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/duanzoric6/repo1334/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/duanzoric6/repo1334/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/duanzoric6/repo1334/languages",
+    "stargazers_url": "https://api.github.com/repos/duanzoric6/repo1334/stargazers",
+    "contributors_url": "https://api.github.com/repos/duanzoric6/repo1334/contributors",
+    "subscribers_url": "https://api.github.com/repos/duanzoric6/repo1334/subscribers",
+    "subscription_url": "https://api.github.com/repos/duanzoric6/repo1334/subscription",
+    "commits_url": "https://api.github.com/repos/duanzoric6/repo1334/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/duanzoric6/repo1334/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/duanzoric6/repo1334/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/duanzoric6/repo1334/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/duanzoric6/repo1334/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/duanzoric6/repo1334/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/duanzoric6/repo1334/merges",
+    "archive_url": "https://api.github.com/repos/duanzoric6/repo1334/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/duanzoric6/repo1334/downloads",
+    "issues_url": "https://api.github.com/repos/duanzoric6/repo1334/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/duanzoric6/repo1334/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/duanzoric6/repo1334/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/duanzoric6/repo1334/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/duanzoric6/repo1334/labels{/name}",
+    "releases_url": "https://api.github.com/repos/duanzoric6/repo1334/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/duanzoric6/repo1334/deployments",
+    "created_at": "2022-04-24T17:21:40Z",
+    "updated_at": "2022-04-24T17:21:40Z",
+    "pushed_at": "2022-04-24T17:21:41Z",
+    "git_url": "git://github.com/duanzoric6/repo1334.git",
+    "ssh_url": "git@github.com:duanzoric6/repo1334.git",
+    "clone_url": "https://github.com/duanzoric6/repo1334.git",
+    "svn_url": "https://github.com/duanzoric6/repo1334",
+    "homepage": null,
+    "size": 0,
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "language": null,
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": false,
+    "forks_count": 0,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 0,
+    "license": null,
+    "allow_forking": true,
+    "is_template": false,
+    "topics": [
+        
+    ],
+    "visibility": "private",
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "default_branch": "main",
+    "permissions": {
+        "admin": true,
+        "maintain": true,
+        "push": true,
+        "triage": true,
+        "pull": true
+    },
+    "allow_squash_merge": true,
+    "allow_merge_commit": true,
+    "allow_rebase_merge": true,
+    "allow_auto_merge": false,
+    "delete_branch_on_merge": false,
+    "allow_update_branch": false,
+    "network_count": 0,
+    "subscribers_count": 1
+}
+Request method:	DELETE
+Request path:	https://api.github.com/repos/duanzoric6/repo1334
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Multiparts:		<none>
+Headers:		Authorization=Bearer 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
+				Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Body:			<none>
+HTTP/1.1 204 No Content
+Server: GitHub.com
+Date: Sun, 24 Apr 2022 17:21:42 GMT
+X-OAuth-Scopes: admin:enterprise, admin:gpg_key, admin:org, admin:org_hook, admin:public_key, admin:repo_hook, delete:packages, delete_repo, gist, notifications, repo, user, workflow, write:discussion, write:packages
+X-Accepted-OAuth-Scopes: 
+github-authentication-token-expiration: 2022-06-18 18:19:06 UTC
+X-GitHub-Media-Type: github.v3; format=json
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4987
+X-RateLimit-Reset: 1650824267
+X-RateLimit-Used: 13
+X-RateLimit-Resource: core
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Used, X-RateLimit-Resource, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type, X-GitHub-SSO, X-GitHub-Request-Id, Deprecation, Sunset
+Access-Control-Allow-Origin: *
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+X-Frame-Options: deny
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 0
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Content-Security-Policy: default-src 'none'
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-GitHub-Request-Id: C389:58C0:1CFA6EB:1DFAF2F:62658725
+]]></system-out>
+  </testcase>
+  <testcase name="runScenario[&quot;POSITIVE : Update repository&quot;, &quot;Optional[Git Hub features]&quot;](2)" classname="Runners.Run" time="2.497">
+    <system-out><![CDATA[Request method:	POST
+Request path:	https://api.github.com/user/repos
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Multiparts:		<none>
+Headers:		Authorization=Bearer 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
+				Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Body:
+{
+    "name": "forUpdate",
+    "gitignore_template": "nanoc",
+    "private": true,
+    "auto_init": true
+}
+HTTP/1.1 201 Created
+Server: GitHub.com
+Date: Sun, 24 Apr 2022 17:21:43 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 5185
+Cache-Control: private, max-age=60, s-maxage=60
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+ETag: "939345422d9ad35ec57e5c4a105d1ff2048b7fdb3a555f18ed505de96ee1b2f1"
+X-OAuth-Scopes: admin:enterprise, admin:gpg_key, admin:org, admin:org_hook, admin:public_key, admin:repo_hook, delete:packages, delete_repo, gist, notifications, repo, user, workflow, write:discussion, write:packages
+X-Accepted-OAuth-Scopes: public_repo, repo
+github-authentication-token-expiration: 2022-06-18 18:19:06 UTC
+Location: https://api.github.com/repos/duanzoric6/forUpdate
+X-GitHub-Media-Type: github.v3; format=json
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4986
+X-RateLimit-Reset: 1650824267
+X-RateLimit-Used: 14
+X-RateLimit-Resource: core
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Used, X-RateLimit-Resource, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type, X-GitHub-SSO, X-GitHub-Request-Id, Deprecation, Sunset
+Access-Control-Allow-Origin: *
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+X-Frame-Options: deny
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 0
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Content-Security-Policy: default-src 'none'
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-GitHub-Request-Id: C38A:58BF:CBDB04:DA489F:62658726
+
+{
+    "id": 485092349,
+    "node_id": "R_kgDOHOnr_Q",
+    "name": "forUpdate",
+    "full_name": "duanzoric6/forUpdate",
+    "private": true,
+    "owner": {
+        "login": "duanzoric6",
+        "id": 101993487,
+        "node_id": "U_kgDOBhRMDw",
+        "avatar_url": "https://avatars.githubusercontent.com/u/101993487?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/duanzoric6",
+        "html_url": "https://github.com/duanzoric6",
+        "followers_url": "https://api.github.com/users/duanzoric6/followers",
+        "following_url": "https://api.github.com/users/duanzoric6/following{/other_user}",
+        "gists_url": "https://api.github.com/users/duanzoric6/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/duanzoric6/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/duanzoric6/subscriptions",
+        "organizations_url": "https://api.github.com/users/duanzoric6/orgs",
+        "repos_url": "https://api.github.com/users/duanzoric6/repos",
+        "events_url": "https://api.github.com/users/duanzoric6/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/duanzoric6/received_events",
+        "type": "User",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/duanzoric6/forUpdate",
+    "description": null,
+    "fork": false,
+    "url": "https://api.github.com/repos/duanzoric6/forUpdate",
+    "forks_url": "https://api.github.com/repos/duanzoric6/forUpdate/forks",
+    "keys_url": "https://api.github.com/repos/duanzoric6/forUpdate/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/duanzoric6/forUpdate/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/duanzoric6/forUpdate/teams",
+    "hooks_url": "https://api.github.com/repos/duanzoric6/forUpdate/hooks",
+    "issue_events_url": "https://api.github.com/repos/duanzoric6/forUpdate/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/duanzoric6/forUpdate/events",
+    "assignees_url": "https://api.github.com/repos/duanzoric6/forUpdate/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/duanzoric6/forUpdate/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/duanzoric6/forUpdate/tags",
+    "blobs_url": "https://api.github.com/repos/duanzoric6/forUpdate/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/duanzoric6/forUpdate/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/duanzoric6/forUpdate/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/duanzoric6/forUpdate/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/duanzoric6/forUpdate/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/duanzoric6/forUpdate/languages",
+    "stargazers_url": "https://api.github.com/repos/duanzoric6/forUpdate/stargazers",
+    "contributors_url": "https://api.github.com/repos/duanzoric6/forUpdate/contributors",
+    "subscribers_url": "https://api.github.com/repos/duanzoric6/forUpdate/subscribers",
+    "subscription_url": "https://api.github.com/repos/duanzoric6/forUpdate/subscription",
+    "commits_url": "https://api.github.com/repos/duanzoric6/forUpdate/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/duanzoric6/forUpdate/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/duanzoric6/forUpdate/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/duanzoric6/forUpdate/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/duanzoric6/forUpdate/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/duanzoric6/forUpdate/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/duanzoric6/forUpdate/merges",
+    "archive_url": "https://api.github.com/repos/duanzoric6/forUpdate/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/duanzoric6/forUpdate/downloads",
+    "issues_url": "https://api.github.com/repos/duanzoric6/forUpdate/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/duanzoric6/forUpdate/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/duanzoric6/forUpdate/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/duanzoric6/forUpdate/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/duanzoric6/forUpdate/labels{/name}",
+    "releases_url": "https://api.github.com/repos/duanzoric6/forUpdate/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/duanzoric6/forUpdate/deployments",
+    "created_at": "2022-04-24T17:21:42Z",
+    "updated_at": "2022-04-24T17:21:42Z",
+    "pushed_at": "2022-04-24T17:21:43Z",
+    "git_url": "git://github.com/duanzoric6/forUpdate.git",
+    "ssh_url": "git@github.com:duanzoric6/forUpdate.git",
+    "clone_url": "https://github.com/duanzoric6/forUpdate.git",
+    "svn_url": "https://github.com/duanzoric6/forUpdate",
+    "homepage": null,
+    "size": 0,
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "language": null,
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": false,
+    "forks_count": 0,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 0,
+    "license": null,
+    "allow_forking": true,
+    "is_template": false,
+    "topics": [
+        
+    ],
+    "visibility": "private",
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "default_branch": "main",
+    "permissions": {
+        "admin": true,
+        "maintain": true,
+        "push": true,
+        "triage": true,
+        "pull": true
+    },
+    "allow_squash_merge": true,
+    "allow_merge_commit": true,
+    "allow_rebase_merge": true,
+    "allow_auto_merge": false,
+    "delete_branch_on_merge": false,
+    "allow_update_branch": false,
+    "network_count": 0,
+    "subscribers_count": 1
+}
+Request method:	PATCH
+Request path:	https://api.github.com/repos/duanzoric6/forUpdate
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Multiparts:		<none>
+Headers:		Authorization=Bearer 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
+				Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Body:
+{
+    "name": "updatedRepo",
+    "gitignore_template": null,
+    "private": false,
+    "auto_init": false
+}
+HTTP/1.1 200 OK
+Server: GitHub.com
+Date: Sun, 24 Apr 2022 17:21:44 GMT
+Content-Type: application/json; charset=utf-8
+Transfer-Encoding: chunked
+Cache-Control: private, max-age=60, s-maxage=60
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+ETag: W/"23cbd11fa949bbe3864b63b084509eb6d402a0474375972705438b8656340e0b"
+X-OAuth-Scopes: admin:enterprise, admin:gpg_key, admin:org, admin:org_hook, admin:public_key, admin:repo_hook, delete:packages, delete_repo, gist, notifications, repo, user, workflow, write:discussion, write:packages
+X-Accepted-OAuth-Scopes: 
+github-authentication-token-expiration: 2022-06-18 18:19:06 UTC
+X-GitHub-Media-Type: github.v3; format=json
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4985
+X-RateLimit-Reset: 1650824267
+X-RateLimit-Used: 15
+X-RateLimit-Resource: core
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Used, X-RateLimit-Resource, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type, X-GitHub-SSO, X-GitHub-Request-Id, Deprecation, Sunset
+Access-Control-Allow-Origin: *
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+X-Frame-Options: deny
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 0
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Content-Security-Policy: default-src 'none'
+Vary: Accept-Encoding, Accept, X-Requested-With
+Content-Encoding: gzip
+X-GitHub-Request-Id: C38C:CF1E:5A2BC07:5B8A259:62658727
+
+{
+    "id": 485092349,
+    "node_id": "R_kgDOHOnr_Q",
+    "name": "updatedRepo",
+    "full_name": "duanzoric6/updatedRepo",
+    "private": false,
+    "owner": {
+        "login": "duanzoric6",
+        "id": 101993487,
+        "node_id": "U_kgDOBhRMDw",
+        "avatar_url": "https://avatars.githubusercontent.com/u/101993487?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/duanzoric6",
+        "html_url": "https://github.com/duanzoric6",
+        "followers_url": "https://api.github.com/users/duanzoric6/followers",
+        "following_url": "https://api.github.com/users/duanzoric6/following{/other_user}",
+        "gists_url": "https://api.github.com/users/duanzoric6/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/duanzoric6/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/duanzoric6/subscriptions",
+        "organizations_url": "https://api.github.com/users/duanzoric6/orgs",
+        "repos_url": "https://api.github.com/users/duanzoric6/repos",
+        "events_url": "https://api.github.com/users/duanzoric6/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/duanzoric6/received_events",
+        "type": "User",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/duanzoric6/updatedRepo",
+    "description": null,
+    "fork": false,
+    "url": "https://api.github.com/repos/duanzoric6/updatedRepo",
+    "forks_url": "https://api.github.com/repos/duanzoric6/updatedRepo/forks",
+    "keys_url": "https://api.github.com/repos/duanzoric6/updatedRepo/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/duanzoric6/updatedRepo/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/duanzoric6/updatedRepo/teams",
+    "hooks_url": "https://api.github.com/repos/duanzoric6/updatedRepo/hooks",
+    "issue_events_url": "https://api.github.com/repos/duanzoric6/updatedRepo/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/duanzoric6/updatedRepo/events",
+    "assignees_url": "https://api.github.com/repos/duanzoric6/updatedRepo/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/duanzoric6/updatedRepo/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/duanzoric6/updatedRepo/tags",
+    "blobs_url": "https://api.github.com/repos/duanzoric6/updatedRepo/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/duanzoric6/updatedRepo/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/duanzoric6/updatedRepo/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/duanzoric6/updatedRepo/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/duanzoric6/updatedRepo/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/duanzoric6/updatedRepo/languages",
+    "stargazers_url": "https://api.github.com/repos/duanzoric6/updatedRepo/stargazers",
+    "contributors_url": "https://api.github.com/repos/duanzoric6/updatedRepo/contributors",
+    "subscribers_url": "https://api.github.com/repos/duanzoric6/updatedRepo/subscribers",
+    "subscription_url": "https://api.github.com/repos/duanzoric6/updatedRepo/subscription",
+    "commits_url": "https://api.github.com/repos/duanzoric6/updatedRepo/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/duanzoric6/updatedRepo/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/duanzoric6/updatedRepo/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/duanzoric6/updatedRepo/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/duanzoric6/updatedRepo/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/duanzoric6/updatedRepo/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/duanzoric6/updatedRepo/merges",
+    "archive_url": "https://api.github.com/repos/duanzoric6/updatedRepo/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/duanzoric6/updatedRepo/downloads",
+    "issues_url": "https://api.github.com/repos/duanzoric6/updatedRepo/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/duanzoric6/updatedRepo/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/duanzoric6/updatedRepo/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/duanzoric6/updatedRepo/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/duanzoric6/updatedRepo/labels{/name}",
+    "releases_url": "https://api.github.com/repos/duanzoric6/updatedRepo/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/duanzoric6/updatedRepo/deployments",
+    "created_at": "2022-04-24T17:21:42Z",
+    "updated_at": "2022-04-24T17:21:44Z",
+    "pushed_at": "2022-04-24T17:21:43Z",
+    "git_url": "git://github.com/duanzoric6/updatedRepo.git",
+    "ssh_url": "git@github.com:duanzoric6/updatedRepo.git",
+    "clone_url": "https://github.com/duanzoric6/updatedRepo.git",
+    "svn_url": "https://github.com/duanzoric6/updatedRepo",
+    "homepage": null,
+    "size": 0,
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "language": null,
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": false,
+    "forks_count": 0,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 0,
+    "license": null,
+    "allow_forking": true,
+    "is_template": false,
+    "topics": [
+        
+    ],
+    "visibility": "public",
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "default_branch": "main",
+    "permissions": {
+        "admin": true,
+        "maintain": true,
+        "push": true,
+        "triage": true,
+        "pull": true
+    },
+    "allow_squash_merge": true,
+    "allow_merge_commit": true,
+    "allow_rebase_merge": true,
+    "allow_auto_merge": false,
+    "delete_branch_on_merge": false,
+    "allow_update_branch": false,
+    "network_count": 0,
+    "subscribers_count": 1
+}
+Request method:	DELETE
+Request path:	https://api.github.com/repos/duanzoric6/updatedRepo
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Multiparts:		<none>
+Headers:		Authorization=Bearer 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
+				Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Body:			<none>
+HTTP/1.1 204 No Content
+Server: GitHub.com
+Date: Sun, 24 Apr 2022 17:21:44 GMT
+X-OAuth-Scopes: admin:enterprise, admin:gpg_key, admin:org, admin:org_hook, admin:public_key, admin:repo_hook, delete:packages, delete_repo, gist, notifications, repo, user, workflow, write:discussion, write:packages
+X-Accepted-OAuth-Scopes: delete_repo
+github-authentication-token-expiration: 2022-06-18 18:19:06 UTC
+X-GitHub-Media-Type: github.v3; format=json
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4984
+X-RateLimit-Reset: 1650824267
+X-RateLimit-Used: 16
+X-RateLimit-Resource: core
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Used, X-RateLimit-Resource, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type, X-GitHub-SSO, X-GitHub-Request-Id, Deprecation, Sunset
+Access-Control-Allow-Origin: *
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+X-Frame-Options: deny
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 0
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Content-Security-Policy: default-src 'none'
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-GitHub-Request-Id: C38D:C919:42DD01:440739:62658728
+]]></system-out>
+  </testcase>
+  <testcase name="runScenario[&quot;POSITIVE : Delete repository&quot;, &quot;Optional[Git Hub features]&quot;](3)" classname="Runners.Run" time="2.002">
+    <system-out><![CDATA[Request method:	POST
+Request path:	https://api.github.com/user/repos
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Multiparts:		<none>
+Headers:		Authorization=Bearer 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
+				Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Body:
+{
+    "name": "forDelete",
+    "gitignore_template": "nanoc",
+    "private": true,
+    "auto_init": true
+}
+HTTP/1.1 201 Created
+Server: GitHub.com
+Date: Sun, 24 Apr 2022 17:21:46 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 5185
+Cache-Control: private, max-age=60, s-maxage=60
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+ETag: "14876ce1a11bf2a3d5315ae604ccb9ddd9bbe8a7016e1cc40264d63d1437f980"
+X-OAuth-Scopes: admin:enterprise, admin:gpg_key, admin:org, admin:org_hook, admin:public_key, admin:repo_hook, delete:packages, delete_repo, gist, notifications, repo, user, workflow, write:discussion, write:packages
+X-Accepted-OAuth-Scopes: public_repo, repo
+github-authentication-token-expiration: 2022-06-18 18:19:06 UTC
+Location: https://api.github.com/repos/duanzoric6/forDelete
+X-GitHub-Media-Type: github.v3; format=json
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4983
+X-RateLimit-Reset: 1650824267
+X-RateLimit-Used: 17
+X-RateLimit-Resource: core
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Used, X-RateLimit-Resource, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type, X-GitHub-SSO, X-GitHub-Request-Id, Deprecation, Sunset
+Access-Control-Allow-Origin: *
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+X-Frame-Options: deny
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 0
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Content-Security-Policy: default-src 'none'
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-GitHub-Request-Id: C38E:CF1D:4015FAC:4157078:62658728
+
+{
+    "id": 485092360,
+    "node_id": "R_kgDOHOnsCA",
+    "name": "forDelete",
+    "full_name": "duanzoric6/forDelete",
+    "private": true,
+    "owner": {
+        "login": "duanzoric6",
+        "id": 101993487,
+        "node_id": "U_kgDOBhRMDw",
+        "avatar_url": "https://avatars.githubusercontent.com/u/101993487?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/duanzoric6",
+        "html_url": "https://github.com/duanzoric6",
+        "followers_url": "https://api.github.com/users/duanzoric6/followers",
+        "following_url": "https://api.github.com/users/duanzoric6/following{/other_user}",
+        "gists_url": "https://api.github.com/users/duanzoric6/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/duanzoric6/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/duanzoric6/subscriptions",
+        "organizations_url": "https://api.github.com/users/duanzoric6/orgs",
+        "repos_url": "https://api.github.com/users/duanzoric6/repos",
+        "events_url": "https://api.github.com/users/duanzoric6/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/duanzoric6/received_events",
+        "type": "User",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/duanzoric6/forDelete",
+    "description": null,
+    "fork": false,
+    "url": "https://api.github.com/repos/duanzoric6/forDelete",
+    "forks_url": "https://api.github.com/repos/duanzoric6/forDelete/forks",
+    "keys_url": "https://api.github.com/repos/duanzoric6/forDelete/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/duanzoric6/forDelete/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/duanzoric6/forDelete/teams",
+    "hooks_url": "https://api.github.com/repos/duanzoric6/forDelete/hooks",
+    "issue_events_url": "https://api.github.com/repos/duanzoric6/forDelete/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/duanzoric6/forDelete/events",
+    "assignees_url": "https://api.github.com/repos/duanzoric6/forDelete/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/duanzoric6/forDelete/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/duanzoric6/forDelete/tags",
+    "blobs_url": "https://api.github.com/repos/duanzoric6/forDelete/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/duanzoric6/forDelete/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/duanzoric6/forDelete/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/duanzoric6/forDelete/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/duanzoric6/forDelete/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/duanzoric6/forDelete/languages",
+    "stargazers_url": "https://api.github.com/repos/duanzoric6/forDelete/stargazers",
+    "contributors_url": "https://api.github.com/repos/duanzoric6/forDelete/contributors",
+    "subscribers_url": "https://api.github.com/repos/duanzoric6/forDelete/subscribers",
+    "subscription_url": "https://api.github.com/repos/duanzoric6/forDelete/subscription",
+    "commits_url": "https://api.github.com/repos/duanzoric6/forDelete/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/duanzoric6/forDelete/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/duanzoric6/forDelete/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/duanzoric6/forDelete/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/duanzoric6/forDelete/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/duanzoric6/forDelete/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/duanzoric6/forDelete/merges",
+    "archive_url": "https://api.github.com/repos/duanzoric6/forDelete/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/duanzoric6/forDelete/downloads",
+    "issues_url": "https://api.github.com/repos/duanzoric6/forDelete/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/duanzoric6/forDelete/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/duanzoric6/forDelete/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/duanzoric6/forDelete/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/duanzoric6/forDelete/labels{/name}",
+    "releases_url": "https://api.github.com/repos/duanzoric6/forDelete/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/duanzoric6/forDelete/deployments",
+    "created_at": "2022-04-24T17:21:45Z",
+    "updated_at": "2022-04-24T17:21:45Z",
+    "pushed_at": "2022-04-24T17:21:45Z",
+    "git_url": "git://github.com/duanzoric6/forDelete.git",
+    "ssh_url": "git@github.com:duanzoric6/forDelete.git",
+    "clone_url": "https://github.com/duanzoric6/forDelete.git",
+    "svn_url": "https://github.com/duanzoric6/forDelete",
+    "homepage": null,
+    "size": 0,
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "language": null,
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": false,
+    "forks_count": 0,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 0,
+    "license": null,
+    "allow_forking": true,
+    "is_template": false,
+    "topics": [
+        
+    ],
+    "visibility": "private",
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "default_branch": "main",
+    "permissions": {
+        "admin": true,
+        "maintain": true,
+        "push": true,
+        "triage": true,
+        "pull": true
+    },
+    "allow_squash_merge": true,
+    "allow_merge_commit": true,
+    "allow_rebase_merge": true,
+    "allow_auto_merge": false,
+    "delete_branch_on_merge": false,
+    "allow_update_branch": false,
+    "network_count": 0,
+    "subscribers_count": 1
+}
+Request method:	DELETE
+Request path:	https://api.github.com/repos/duanzoric6/forDelete
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Multiparts:		<none>
+Headers:		Authorization=Bearer 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
+				Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Body:			<none>
+HTTP/1.1 204 No Content
+Server: GitHub.com
+Date: Sun, 24 Apr 2022 17:21:46 GMT
+X-OAuth-Scopes: admin:enterprise, admin:gpg_key, admin:org, admin:org_hook, admin:public_key, admin:repo_hook, delete:packages, delete_repo, gist, notifications, repo, user, workflow, write:discussion, write:packages
+X-Accepted-OAuth-Scopes: 
+github-authentication-token-expiration: 2022-06-18 18:19:06 UTC
+X-GitHub-Media-Type: github.v3; format=json
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4982
+X-RateLimit-Reset: 1650824267
+X-RateLimit-Used: 18
+X-RateLimit-Resource: core
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Used, X-RateLimit-Resource, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type, X-GitHub-SSO, X-GitHub-Request-Id, Deprecation, Sunset
+Access-Control-Allow-Origin: *
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+X-Frame-Options: deny
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 0
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Content-Security-Policy: default-src 'none'
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-GitHub-Request-Id: C391:12456:5F83855:60F40B7:6265872A
+Request method:	DELETE
+Request path:	https://api.github.com/repos/duanzoric6/forDelete
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Multiparts:		<none>
+Headers:		Authorization=Bearer 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
+				Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Body:			<none>
+HTTP/1.1 404 Not Found
+Server: GitHub.com
+Date: Sun, 24 Apr 2022 17:21:46 GMT
+Content-Type: application/json; charset=utf-8
+Transfer-Encoding: chunked
+X-OAuth-Scopes: admin:enterprise, admin:gpg_key, admin:org, admin:org_hook, admin:public_key, admin:repo_hook, delete:packages, delete_repo, gist, notifications, repo, user, workflow, write:discussion, write:packages
+X-Accepted-OAuth-Scopes: repo
+github-authentication-token-expiration: 2022-06-18 18:19:06 UTC
+X-GitHub-Media-Type: github.v3; format=json
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4981
+X-RateLimit-Reset: 1650824267
+X-RateLimit-Used: 19
+X-RateLimit-Resource: core
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Used, X-RateLimit-Resource, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type, X-GitHub-SSO, X-GitHub-Request-Id, Deprecation, Sunset
+Access-Control-Allow-Origin: *
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+X-Frame-Options: deny
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 0
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Content-Security-Policy: default-src 'none'
+Vary: Accept-Encoding, Accept, X-Requested-With
+Content-Encoding: gzip
+X-GitHub-Request-Id: C392:CF1E:5A2C049:5B8A6A7:6265872A
+
+{
+    "message": "Not Found",
+    "documentation_url": "https://docs.github.com/rest/reference/repos#delete-a-repository"
+}
+]]></system-out>
+  </testcase>
+  <testcase name="runScenario[&quot;NEGATIVE : Create new repository - unknown gitignoreTemplate&quot;, &quot;Optional[Git Hub features]&quot;](4)" classname="Runners.Run" time="0.627">
+    <system-out><![CDATA[Request method:	POST
+Request path:	https://api.github.com/user/repos
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Multiparts:		<none>
+Headers:		Authorization=Bearer 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
+				Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Body:
+{
+    "name": "repo1334",
+    "gitignore_template": "123",
+    "private": true,
+    "auto_init": true
+}
+HTTP/1.1 422 Unprocessable Entity
+Server: GitHub.com
+Date: Sun, 24 Apr 2022 17:21:47 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 302
+X-OAuth-Scopes: admin:enterprise, admin:gpg_key, admin:org, admin:org_hook, admin:public_key, admin:repo_hook, delete:packages, delete_repo, gist, notifications, repo, user, workflow, write:discussion, write:packages
+X-Accepted-OAuth-Scopes: public_repo, repo
+github-authentication-token-expiration: 2022-06-18 18:19:06 UTC
+X-GitHub-Media-Type: github.v3; format=json
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4980
+X-RateLimit-Reset: 1650824267
+X-RateLimit-Used: 20
+X-RateLimit-Resource: core
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Used, X-RateLimit-Resource, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type, X-GitHub-SSO, X-GitHub-Request-Id, Deprecation, Sunset
+Access-Control-Allow-Origin: *
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+X-Frame-Options: deny
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 0
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Content-Security-Policy: default-src 'none'
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-GitHub-Request-Id: C393:12185:3C66B30:3DA684F:6265872A
+
+{
+    "message": "Repository creation failed.",
+    "errors": [
+        {
+            "resource": "Repository",
+            "code": "custom",
+            "field": "gitignore_template",
+            "message": "gitignore_template is an unknown gitignore template."
+        }
+    ],
+    "documentation_url": "https://docs.github.com/rest/reference/repos#create-a-repository-for-the-authenticated-user"
+}
+Request method:	DELETE
+Request path:	https://api.github.com/repos/duanzoric6/repo1334
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Multiparts:		<none>
+Headers:		Authorization=Bearer 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
+				Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Body:			<none>
+HTTP/1.1 404 Not Found
+Server: GitHub.com
+Date: Sun, 24 Apr 2022 17:21:47 GMT
+Content-Type: application/json; charset=utf-8
+Transfer-Encoding: chunked
+X-OAuth-Scopes: admin:enterprise, admin:gpg_key, admin:org, admin:org_hook, admin:public_key, admin:repo_hook, delete:packages, delete_repo, gist, notifications, repo, user, workflow, write:discussion, write:packages
+X-Accepted-OAuth-Scopes: repo
+github-authentication-token-expiration: 2022-06-18 18:19:06 UTC
+X-GitHub-Media-Type: github.v3; format=json
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4979
+X-RateLimit-Reset: 1650824267
+X-RateLimit-Used: 21
+X-RateLimit-Resource: core
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Used, X-RateLimit-Resource, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type, X-GitHub-SSO, X-GitHub-Request-Id, Deprecation, Sunset
+Access-Control-Allow-Origin: *
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+X-Frame-Options: deny
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 0
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Content-Security-Policy: default-src 'none'
+Vary: Accept-Encoding, Accept, X-Requested-With
+Content-Encoding: gzip
+X-GitHub-Request-Id: C394:53BC:5450E2B:55B25C6:6265872B
+
+{
+    "message": "Not Found",
+    "documentation_url": "https://docs.github.com/rest/reference/repos#delete-a-repository"
+}
+]]></system-out>
+  </testcase>
+  <testcase name="runScenario[&quot;NEGATIVE : Create new repository - empty name&quot;, &quot;Optional[Git Hub features]&quot;](5)" classname="Runners.Run" time="0.348">
+    <system-out><![CDATA[Request method:	POST
+Request path:	https://api.github.com/user/repos
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Multiparts:		<none>
+Headers:		Authorization=Bearer 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
+				Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Body:
+{
+    "name": null,
+    "gitignore_template": "nanoc",
+    "private": true,
+    "auto_init": true
+}
+HTTP/1.1 422 Unprocessable Entity
+Server: GitHub.com
+Date: Sun, 24 Apr 2022 17:21:47 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 342
+X-OAuth-Scopes: admin:enterprise, admin:gpg_key, admin:org, admin:org_hook, admin:public_key, admin:repo_hook, delete:packages, delete_repo, gist, notifications, repo, user, workflow, write:discussion, write:packages
+X-Accepted-OAuth-Scopes: public_repo, repo
+github-authentication-token-expiration: 2022-06-18 18:19:06 UTC
+X-GitHub-Media-Type: github.v3; format=json
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4978
+X-RateLimit-Reset: 1650824267
+X-RateLimit-Used: 22
+X-RateLimit-Resource: core
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Used, X-RateLimit-Resource, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type, X-GitHub-SSO, X-GitHub-Request-Id, Deprecation, Sunset
+Access-Control-Allow-Origin: *
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+X-Frame-Options: deny
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 0
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Content-Security-Policy: default-src 'none'
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-GitHub-Request-Id: C395:12186:67B5C81:6924120:6265872B
+
+{
+    "message": "Repository creation failed.",
+    "errors": [
+        {
+            "resource": "Repository",
+            "code": "missing_field",
+            "field": "name"
+        },
+        {
+            "resource": "Repository",
+            "code": "custom",
+            "field": "name",
+            "message": "name is too short (minimum is 1 character)"
+        }
+    ],
+    "documentation_url": "https://docs.github.com/rest/reference/repos#create-a-repository-for-the-authenticated-user"
+}
+]]></system-out>
+  </testcase>
+</testsuite>
