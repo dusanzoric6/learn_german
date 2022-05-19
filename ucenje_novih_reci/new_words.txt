@@ -1,39 +1,24 @@
-potok - der Bach
-uvala - das Tal
-planina - das Gebirge
-pejzaz - die Landschaft
-poljoprivreda - die Landwirtschaft
-klimatske promene - der Klimawandel
-biljne vrste - Pflanzenarten
-zagrevati - heizen
-iskljuciti - abschalten
-zastita zivotne sredine - der Umweltschutz
-termo elektrana - das Kohlekraftwerk
-sirovi materijal - der Rohstoff
-izduvni gasovi - Abgase
-zagadjivati - verschmutzen
-poplava - das Hochwasser
-odvajanje otpada - die Mülltrennung
-tracenje - verschwenden
-mala kolicina - gering
-rezervat prirode - Natutrschutzgebiet
-obnovljivi - erneuerbar
-vitalni - lebenswichtig
-ekonomicni - sparsam
-nuklearna energija - die Kernenergie
-nuklearni otpad - der Atommüll
-stetni - schädlich
-smece - der Abfall
-odlaganje smeca - die Müllentsorgung
-odbaciti - entsorgen
-ostalo smece - der Restmüll
-baterija - der Akku
-
-
-bleiben - ist geblieben
-Momir Samardži?18:04
-sich aufregen -uznemiriti se
-Momir Samardži?18:28
-ziehen - zog - gezogen
-Momir Samardži?18:36
-die Grünfläche - zelena povrsina
+AN - Denk bitte --- das Buch!
+ÜBER - Ich freue mich sehr --- das Geschenk. Es gefällt mir sehr. Vielen Dank!
+BEIM - Könntet ihr mir bitte --- Umzug helfen?
+AN - Wie viele Personen nehmen --- dem Deutschkurs teil?
+BEI - Wenn du willst, kannst du --- uns mitmachen.
+GEGEN - Ich bin --- diesen Vorschlag, denn er ist nicht gut.
+DARÜBER - Wir haben uns lange --- unterhalten.
+AUF - Ich warte --- den Bus.
+IN - Ich habe mich --- dich verliebt.
+MIT - Wir haben uns --- Freunden verabredet.
+BEI - Ich arbeite und die anderen schauen mir --- der Arbeit zu.
+AUF - Ich freue mich sehr --- deinen Besuch nächste Woche.
+UM - Ich möchte dich --- einen Gefallen bitten.
+NACH - Sie hat --- dir gefragt und wollte wissen, wie es dir geht.
+AN - Erinnerst du dich noch --- mich?
+BEI - Ich bedanke mich --- Ihnen für Ihre Hilfe.
+AUF - Können Sie bitte --- meine Frage antworten?
+MIT - Der Film endet --- einer großen Überraschung.
+WORAUF - --- wartest du?
+DARAUF - Ich freue mich ---, dich bald wiederzusehen.
+FÜR - Ich habe mich --- diese Möglichkeit entschieden, denn ich glaube, es ist die beste.
+NACH - Ich habe die Straße nicht gefunden und musste --- dem Weg fragen.
+FÜR - Ich entschuldige mich --- die Verspätung.
+ZU - Hast du Maria --- ihrem Geburtstag gratuliert?

@@ -1,6 +1,0 @@
-Client\GitHubClient.class
-Runners\Run.class
-StepDefinitions\Hooks.class
-StepDefinitions\Steps.class
-Model\Context.class
-Model\RepositoryRequest.class
