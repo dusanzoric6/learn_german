@@ -1,0 +1,90 @@
+zdravstvo - das Gesundheitswesen
+hitna - die Notaufnahme
+trudna - schwanger
+babica - die Hebamme
+aktivnosti - die Tätigkeiten
+
+putnik - der Fahrgast
+pristupiti - anfahren
+svrgnuti - stürzen
+povreda - die Verletzung
+opasno po zivot - lebensgefährlich
+zapaziti - beachten
+pobeci sa mesta nesrece - Fahrerflucht begehen
+svedok - der Zeuge
+prevideti - übersehen
+rendgen snimak - das Röntgen
+isporuka - die Entbindung
+dostaviti - entbinden
+posmatranje - die Beobachtung
+tretirati - behandeln
+zaraziti - anstecken
+
+mera predostroznosti - die Vorsorge
+fizicki - körperlich
+preliminarni razgovor - das Vorgespräch
+konsultacije - das Beratungsgespräch
+tretman - die Behandlung
+bolest - die Erkrankung
+koristan - hilfreich
+neophodan - notwendig
+preuzimati troskove - Kosten übernehmen
+slusanje pluca - die Lunge abhören
+osetiti stomak - den Bauch abtasten
+spreciti - verhindern
+btw - übrigens
+na kraju - zum Schluss
+pobrinuti se za - erledigen
+mentalno - psychisch
+
+napredak - der Fortschritt
+postaviti pitanje - die Frage stellen
+starenje - das Altern
+prevencija - die Vorbeugung
+visok krvni pritisak - der Bluthochdruck
+mentalno - geistig
+umetnicki - künstlerisch
+operisati se - sich betätigen
+san - der Schlaf
+
+ni... niti - weder... noch
+kako... tako i - sowohl... als auch
+ne samo... vec i - nicht nur... sondern auch
+ni... ili - entweder... oder
+
+zavisi od - hängt davon ab
+respoektivno - jeweils
+visina doprinosa - Die Höhe der Beiträge
+dodatno osiguranje - Zusatzversicherung
+zakonski - gesetzlich
+nerviralo me je - Es hat mich gestört
+poseta - der Aufenthalt
+
+
+to visit - besuchen
+order - bestellen
+justify - begründen
+infested - befallen
+water - bewässern
+envy - beneiden
+restrict - beschränken
+appointed - berufen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
