@@ -1,27 +1,2 @@
-- Im Wien ist der älteste noch heute funktionierenden Tiergartens: Tiergarten Schönbrunn, gegründet 1752.
-- Es ist die einzige Hauptstadt der Welt, die ihren eigenen Wein produziert.
-    Zu den bekanntesten gehoren Sorten sind Riesling, Weißburgunder und Grüner Veltliner
-- Mehr bekannte Komponisten haben im Wien gelebt als irgendwo sonst auf der Welt,
-    darunter Mozart, Beethoven, Joseph Haydn und Johann Strauss.
-    Ihre Häuser sind heute Museen und sind für Besucher geöffnet.
-- Nach dem 2. Weltkrieg war Wien in vier Zonen geteilt.
-
-
-überall - svuda
-
-zunehmen -
-
-sie ist hingefallen
-eineinhalb
-
-verstaucht
-
-
-
-    Russland, Frankreich, Großbritannien und die Vereinigten Staaten übernahmen die Kontrolle über verschiedene Teile der Stadt.
-- Hunde sind an vielen öffentlichen Orten in Wien erlaubt, darunter Restaurants und Boutiquen.
-- Wien liegt in zwei verschiedenen Klimazonen – der europäischen Übergangszone und der panonischen.
-
-
-
-
+/api/offers/assign/?tradingUuid=${OAOFFERC}&traderId=tra1derId&traderLogin=traderLogin
+/api/offers/assign/?offerId=${OAOFFERS}&traderId=tra1derId&traderLogin=traderLogin

@@ -10,7 +10,7 @@ opozicija - die Opposition
 vlada - die Regierung
 poslanik - der Abgeordnete
 kancelar - der Bundeskanzler
-upravljati - regieren
+vladati - regieren
 odrediti - bestimmen
 savezni predsednik - der Bundespräsident
 zastupati - repräsentieren
@@ -21,8 +21,8 @@ za sada - zurzeit
 mir - der Frieden
 nezaposlenost - die Arbeitslosigkeit
 kriminal - die Kriminalität
-zanemarivanje - vernachlässigen
-okupirati - beschäftigen (sich) (mit)
+zanemariti - vernachlässigen
+zaposliti - beschäftigen (sich) (mit)
 
 obrazovanje odraslih - die Erwachsenenbildung
 ogranicenje brzine - die Geschwindigkeitsbeschränkung
