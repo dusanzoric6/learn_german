@@ -1,24 +1,5 @@
-asocijacija roditelja - der Elternverein
-izbeglica - der Flüchtling
-prevoditi - übersetzen
-parlament - der Landtag
-parlament - das Parlament
-sastoji se od - bestehen (aus)
-izbor - die Wahl
-partija - die Partei
-opozicija - die Opposition
-vlada - die Regierung
-poslanik - der Abgeordnete
-kancelar - der Bundeskanzler
-vladati - regieren
-odrediti - bestimmen
-savezni predsednik - der Bundespräsident
-zastupati - repräsentieren
-savezno vece - der Bundesrat
-zakon - das Gesetz
-za sada - zurzeit
-mir - der Frieden
-nezaposlenost - die Arbeitslosigkeit
-kriminal - die Kriminalität
-zanemariti - vernachlässigen
-zaposliti - beschäftigen (sich) (mit)
+otvoreni bazen - das Freibad
+tokom nase pauze - während unserer Pause
+udruzenje - der Verein
+manifestacija - die Veranstaltung
+zahtevati - fordern

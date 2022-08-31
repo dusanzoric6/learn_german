@@ -1,0 +1,28 @@
+moci - poder
+ispod - debajo
+videti - ver
+kosulja - camisa
+znati - saber
+solja - taza
+casa - vaso
+secer - azucar
+sladoled - helado
+bez - sin
+
+nula - cero
+jedan - uno
+dva - dos
+tri - tres
+cetiri - cuatro
+pet - cinco
+sest - seis
+sedam - siete
+osam - ocho
+devet - nueve
+deset - diez
+
+ona vidi - ella mira
+ljubicasto - morado
+nesto - algo
+naocare za sunce - gafas de sol
+oni su za tebe - Son para ti

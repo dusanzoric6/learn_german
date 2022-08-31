@@ -30,7 +30,7 @@ omladinski centar - das Jugendzentrum
 otvor - die Eröffnung
 profit - der Gewinn
 promena - die Änderung
-peomeniti - ändern
+promeniti - ändern
 industrijska zona - das Industriegebiet
 do sad - bisher
 transportno preduzece - der Verkehrsbetrieb
@@ -43,3 +43,18 @@ cena karte - der Fahrpreis
 smanjiti - senken
 ponuda za slobodno vreme - das Freizeitangebot
 
+lokalni izbori - die Kommunalwahl
+savet - der Gemeinderat
+gradsko vece - der Stadtrat
+imati pravo glasa - wahlberechtigt
+gubitci glasova - Stimmverluste
+progresivan - fortschrittlich
+nezavistan - parteilos
+izborna kampanja - der Wahlkampf
+staracki dom - das Seniorenheim
+
+otvoreni bazen - das Freibad
+tokom nase pauze - während unserer Pause
+udruzenje - der Verein
+manifestacija - die Veranstaltung
+zahtevati - fordern
