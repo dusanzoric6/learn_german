@@ -1,3 +1,48 @@
+moci - poder
+ispod - debajo
+videti - ver
+kosulja - camisa
+znati - saber
+solja - taza
+casa - vaso
+secer - azucar
+sladoled - helado
+bez - sin
+
+nula - cero
+jedan - uno
+dva - dos
+tri - tres
+cetiri - cuatro
+pet - cinco
+sest - seis
+sedam - siete
+osam - ocho
+devet - nueve
+deset - diez
+
+ona vidi - ella mira
+ljubicasto - morado
+nesto - algo
+naocare za sunce - gafas de sol
+oni su za tebe - Son para ti
+kuvati - cocinar
+zabavno - divertido
+povrce - vegetales
+zeleznicka stanica - estación de tren
+odmor - vacaciones
+
+uzbudjen - eomocionado
+kada su - Cuándo son
+nedelja - semana
+svaki dan - todos los días
+test - examen
+moram da ucim - tengo que estudiar
+ranac - mochila
+kako - como
+dosadan - aburrido
+salter - mostrador
+
 zeleo bih da budem - quisiera estar
 pored - al lado de
 sediste - asiento
@@ -8,3 +53,8 @@ nazvati - llamar
 ne jos - no todavía
 zajedno - juntos
 pirinac - arroz
+
+pasulj - frijoles
+ko - Quien
+isto - mismos
+sta da radim - Que hago
