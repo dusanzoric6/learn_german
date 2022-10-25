@@ -1,4 +1,5 @@
 moci - poder
+moci - poder
 ispod - debajo
 videti - ver
 kosulja - camisa
@@ -58,17 +59,28 @@ pasulj - frijoles
 ko - Quien
 isto - mismos
 sta da radim - Que hago
+roditelji - padres
+cetristo - cuatrociento
+trinaest - trece
+sta radis - Qué haces
+otici - salir
+drzava - pais
 
+koliko kosta - Cuánto cuesta
+davati - dar
+abrelo - otvori
+smesno - gracioso
+zaboraviti - olvidar
+mozes mi dati - puedes darme
+nauciti - aprender
+ustati - levantar
+strah - miedo
 
-
-
-
-
-
-
-
-
-
-
-
-
+verovati - creer
+sa mnom- conmigo
+vratiti se - vuelver
+posle - despues
+dnevna soba - sala
+cesto - menudo
+zadovoljan - contento
+ptica - pajaro
