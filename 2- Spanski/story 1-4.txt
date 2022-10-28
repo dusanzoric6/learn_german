@@ -52,7 +52,7 @@ karta - boleto
 grad - ciudad
 muz - esposo
 
-tesko - dificil
+tezak - dificil
 tuzan - tristo
 zao mi je - lo siento
 uzivati - disfruter

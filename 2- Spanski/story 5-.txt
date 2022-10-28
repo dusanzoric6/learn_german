@@ -34,9 +34,9 @@ zeleznicka stanica - estación de tren
 odmor - vacaciones
 
 uzbudjen - eomocionado
-kada su - Cuándo son
+kada su - Cuando son
 nedelja - semana
-svaki dan - todos los días
+svaki dan - todos los dias
 test - examen
 moram da ucim - tengo que estudiar
 ranac - mochila
@@ -51,7 +51,7 @@ mozete li mi pomoci - puede ayudarme
 kosa - pelo
 plesati - bailar
 nazvati - llamar
-ne jos - no todavía
+ne jos - no todavia
 zajedno - juntos
 pirinac - arroz
 
@@ -62,25 +62,49 @@ sta da radim - Que hago
 roditelji - padres
 cetristo - cuatrociento
 trinaest - trece
-sta radis - Qué haces
+sta radis - Que haces
 otici - salir
 drzava - pais
 
-koliko kosta - Cuánto cuesta
+koliko kosta - Cuanto cuesta
 davati - dar
-abrelo - otvori
+otvori - abrelo
 smesno - gracioso
 zaboraviti - olvidar
 mozes mi dati - puedes darme
 nauciti - aprender
 ustati - levantar
 strah - miedo
-
 verovati - creer
-sa mnom- conmigo
+
+sa mnom - conmigo
 vratiti se - vuelver
 posle - despues
 dnevna soba - sala
 cesto - menudo
 zadovoljan - contento
 ptica - pajaro
+vecera - cena
+kuhinja - cocina
+dolaziti - venir
+
+torta - pastel
+sledeci - proximo
+vecerati - cenar
+vezba - ejercicio
+poslednji - ultimo
+sprat - piso
+basta - jardin
+osecati - sienter
+ne osecam se - no me siento
+dvadeset - veinte
+moje cvece - mis flores
+sastanak - cita
+
+ponedeljak - lunes
+utorak - martes
+sreda - miercoles
+cetvrtak - jueves
+petak - viernes
+subota - sabado
+nedelja - domingo
