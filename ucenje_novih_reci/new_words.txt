@@ -1,6 +1,10 @@
-torta - pastel
-sledeci - proximo
-vecerati - cenar
-vezba - ejercicio
-poslednji - ultimo
-sprat - piso
+uzbudjen - eomocionado
+kada su - Cuándo son
+nedelja - semana
+svaki dan - todos los días
+test - examen
+moram da ucim - tengo que estudiar
+ranac - mochila
+kako - como
+dosadan - aburrido
+salter - mostrador
