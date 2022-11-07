@@ -13,7 +13,7 @@ def learn_this_list_german(target_words_list):
         print(eng_art + word_complex.eng)
         translation_input = input("translation: ")
 
-        TextToSpeach.say_the_word_in_spanish(word_complex.ger.lower())
+        # TextToSpeach.say_the_word_in_spanish(word_complex.ger.lower())
 
         if (word_complex.art.lower() + " " + word_complex.ger.lower()).strip() == translation_input.lower():
             print("true")
@@ -22,7 +22,7 @@ def learn_this_list_german(target_words_list):
             continue
 
         elif translation_input == "r":
-            TextToSpeach.say_the_word_in_spanish(word_complex.ger.lower())
+            # TextToSpeach.say_the_word_in_spanish(word_complex.ger.lower())
             print("-------------------------------------------------e")
             continue
 
@@ -53,12 +53,12 @@ def learn_this_list_english(list):
         percentage = (count / length) * 100
         print(str(round(percentage, 1)) + " %")
         print(word_complex.get_german())
-        TextToSpeach.say_the_word_in_spanish(word_complex.get_german())
+        # TextToSpeach.say_the_word_in_spanish(word_complex.get_german())
         translation_input = input("translation: ")
 
-        while translation_input == "r":
-            TextToSpeach.say_the_word_in_spanish(word_complex.get_german())
-            translation_input = input("translation: ")
+        # while translation_input == "r":
+        #     TextToSpeach.say_the_word_in_spanish(word_complex.get_german())
+        #     translation_input = input("translation: ")
 
         if word_complex.eng.lower() == translation_input.lower():
             print("true")
