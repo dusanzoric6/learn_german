@@ -13,10 +13,17 @@ def learn_this_list_german(target_words_list):
         print(eng_art + word_complex.eng)
         translation_input = input("translation: ")
 
+        # TextToSpeach.say_the_word_in_spanish(word_complex.ger.lower())
+
         if (word_complex.art.lower() + " " + word_complex.ger.lower()).strip() == translation_input.lower():
             print("true")
             print("-------------------------------------------------t")
             print("")
+            continue
+
+        elif translation_input == "r":
+            # TextToSpeach.say_the_word_in_spanish(word_complex.ger.lower())
+            print("-------------------------------------------------e")
             continue
 
         elif translation_input == "exit":
