@@ -1,4 +1,4 @@
-devojka - niña
+devojka - nina
 gde su - Donde estan
 kljucevi - llaves
 ici - ir
@@ -39,7 +39,7 @@ odeca - ropa
 skup - caro
 obozavam - me encanta
 kupiti - comprar
-rodjendan - cumpleaños
+rodjendan - cumpleanos
 najbolji - mejor
 
 poklon - regalo
@@ -94,7 +94,7 @@ prostor - espacio
 mi - nosotros
 ovaj - este
 previse - demasiado
-malen - pequeño
+malen - pequeno
 
 stolica - silla
 haljina - vestido

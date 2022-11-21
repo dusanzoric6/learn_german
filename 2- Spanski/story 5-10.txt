@@ -1,5 +1,4 @@
 moci - poder
-moci - poder
 ispod - debajo
 videti - ver
 kosulja - camisa
@@ -108,3 +107,14 @@ cetvrtak - jueves
 petak - viernes
 subota - sabado
 nedelja - domingo
+
+radionica - taller
+vreme rucka - hora del almuerzo
+krompiri - patatas
+dugacak - largo
+zdrav - saludable
+uzmi - toma
+onda - entonces
+cistiti - limpiar
+prati - lavar
+prozor - ventana
