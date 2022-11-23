@@ -27,12 +27,12 @@ nesto - algo
 naocare za sunce - gafas de sol
 oni su za tebe - Son para ti
 kuvati - cocinar
-zabavno - divertido
+zabavan - divertido
 povrce - vegetales
-zeleznicka stanica - estación de tren
+zeleznicka stanica - estacion de tren
 odmor - vacaciones
 
-uzbudjen - eomocionado
+uzbudjen - emocionado
 kada su - Cuando son
 nedelja - semana
 svaki dan - todos los dias
@@ -67,8 +67,7 @@ drzava - pais
 
 koliko kosta - Cuanto cuesta
 davati - dar
-otvori - abrelo
-smesno - gracioso
+smesan - gracioso
 zaboraviti - olvidar
 mozes mi dati - puedes darme
 nauciti - aprender
