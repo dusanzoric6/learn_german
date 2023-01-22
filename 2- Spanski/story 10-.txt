@@ -25,10 +25,10 @@ star - viejo
 oko - sobre
 zakasniti - llegar tarde
 dobiti - llegar
-codan - extrano
+cudan - extrano
 frizider - nevera
 prljav - sucio
-cimerka - compañera de cuarto
+cimerka - companera de cuarto
 raspravljati - discutir
 
 iznenadjen - sorprendida

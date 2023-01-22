@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/jumio/USA_DL_2022-classifier.json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jumio/USA_DL_2022-rectifier.json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jumio/db.json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jumio/debugLog.json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jumio/qwe.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jumio/qwe2.py" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ucenje_novih_reci/new_words_list_of_false.txt" charset="windows-1252" />
     <file url="PROJECT" charset="windows-1252" />
   </component>
