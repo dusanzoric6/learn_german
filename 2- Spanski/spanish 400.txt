@@ -1,0 +1,56 @@
+reloj - sat
+sobre - na
+cerrar - zatvoriti
+talla - velicina
+precio - cena
+trece - trinaest
+catorce - cetrnaest
+quince - petnaest
+Cuanto cuesta - koliko kosta
+tarjeta - kartica
+
+efectivo - kes
+veinte - dvadeset
+ir de compras - ici u kupovinu
+menor - mladji
+enojado - ljut
+suprendido - iznenadjen
+perezoso - lenj
+amarillo - zut
+odiar - mrzeti
+caballo - konj
+
+montar - voziti
+aquellos - oni
+normalmente - normalno
+Que países conocés - koje drzave znas
+gente - ljudi
+tengo ganas de - radi mi se
+tengo sed - zedan sam
+Ustedes tien calor - da li vam je vruce
+lugar - mesto
+parte - deo
+
+visitar - posetiti
+usualmente - obicno
+algunos - neki
+esenar - pokazati
+amar - voleti
+me duele el ojo - boli me oko
+aquel - taj
+tengo sed - zedan sam
+tengo frio - hladno mi je
+tengo calor - vruce mi je
+
+tengo puesto abrigo - nosim kaput
+tengo sueno - spava mi se
+tengo ganas de - u raspolozenju sam za
+alugugen - neko
+encontrar - pronaci
+cual es - koji je
+el peor - najgori
+vida - zivot
+rosado - roze
+idioma - jezik
+
+enseñar - poducavati
