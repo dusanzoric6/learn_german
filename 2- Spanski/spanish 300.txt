@@ -69,8 +69,8 @@ koliko kosta - Cuanto cuesta
 davati - dar
 smesan - gracioso
 zaboraviti - olvidar
-mozes mi dati - puedes darme
-nauciti - aprender
+mozes li mi dati - puedes darme
+poducavati - aprender
 ustati - levantar
 strah - miedo
 verovati - creer
@@ -106,14 +106,3 @@ cetvrtak - jueves
 petak - viernes
 subota - sabado
 nedelja - domingo
-
-radionica - taller
-vreme rucka - hora del almuerzo
-krompiri - patatas
-dugacak - largo
-zdrav - saludable
-uzmi - toma
-onda - entonces
-cistiti - limpiar
-prati - lavar
-prozor - ventana

@@ -1,56 +1,116 @@
-reloj - sat
-sobre - na
-cerrar - zatvoriti
-talla - velicina
-precio - cena
-trece - trinaest
-catorce - cetrnaest
-quince - petnaest
-Cuanto cuesta - koliko kosta
-tarjeta - kartica
+radionica - taller
+vreme rucka - hora del almuerzo
+krompiri - patatas
+dugacak - largo
+zdrav - saludable
+uzmi - toma
+onda - entonces
+cistiti - limpiar
+prati - lavar
+prozor - ventana
 
-efectivo - kes
-veinte - dvadeset
-ir de compras - ici u kupovinu
-menor - mladji
-enojado - ljut
-suprendido - iznenadjen
-perezoso - lenj
-amarillo - zut
-odiar - mrzeti
-caballo - konj
+sat - reloj
+na - sobre
+zatvoriti - cerrar
+velicina - talla
+cena - precio
+trinaest - trece
+cetrnaest - catorce
+petnaest - quince
+koliko kosta - Cuanto cuesta
+kartica - tarjeta
 
-montar - voziti
-aquellos - oni
-normalmente - normalno
-Que países conocés - koje drzave znas
-gente - ljudi
-tengo ganas de - radi mi se
-tengo sed - zedan sam
-Ustedes tien calor - da li vam je vruce
-lugar - mesto
-parte - deo
+kes - efectivo
+dvadeset - veinte
+ici u kupovinu - ir de compras
+mladji - menor
+ljut - enojado
+iznenadjen - suprendido
+lenj - perezoso
+zut - amarillo
+mrzeti - odiar
+konj - caballo
 
-visitar - posetiti
-usualmente - obicno
-algunos - neki
-esenar - pokazati
-amar - voleti
-me duele el ojo - boli me oko
-aquel - taj
-tengo sed - zedan sam
-tengo frio - hladno mi je
-tengo calor - vruce mi je
+voziti - montar
+oni - aquellos
+normalno - normalmente
+koje drzave znas - Que países conocés
+ljudi - gente
+radi mi se - tengo ganas de
+zedan sam - tengo sed
+da li vam je vruce - Ustedes tien calor
+mesto - lugar
+deo - parte
 
-tengo puesto abrigo - nosim kaput
-tengo sueno - spava mi se
-tengo ganas de - u raspolozenju sam za
-alugugen - neko
-encontrar - pronaci
-cual es - koji je
-el peor - najgori
-vida - zivot
-rosado - roze
-idioma - jezik
+posetiti - visitar
+obicno - usualmente
+neki - algunos
+pokazati - esenar
+voleti - amar
+boli me oko - me duele el ojo
+taj - aquel
+zedan sam - tengo sed
+hladno mi je - tengo frio
+vruce mi je - tengo calor
 
-enseñar - poducavati
+nosim kaput - tengo puesto abrigo
+spava mi se - tengo sueno
+u raspolozenju sam za - tengo ganas de
+neko - alugugen
+pronaci - encontrar
+koji je - cual es
+najgori - el peor
+zivot - vida
+roze - rosado
+jezik - idioma
+
+poducavati - enseñar
+
+
+nesto od cveca - algunas de las flores
+onda - entonces
+svako jutro - cada mañana
+dorucak - desayuno
+napustam - yo salgo
+pre - antes
+posle - después
+svaka - cada
+tusiranje - ducharse
+oblacenje - ponerse
+ustajanje - levantarse
+rano - temprano
+vratiti se - volver
+poceti - empiesar
+meni izgleda - me parece
+nego tvoja - que la suya
+lice - cara
+poprilicno - bastante
+koji - cuál
+rec - palabra
+ne razumem - no entiendo
+izgubiti - perder
+vratiti se - volver
+rodjak - primo
+oblacno - nublado
+zima - invierno
+pada kisa - llueve
+pada sneg - nieva
+oblacno - nublado
+mracan - oscuro
+pada sneg - nieva
+pada kisa - llueve
+mesec - mes
+despacio - sporo
+slatko - dulce
+obe - ambas
+kesa - bolsa
+debeo - gordo
+rec - palabra
+manje - menos
+tanak - delgado
+nositi - llevar
+staviti - pones
+vruce - caliente
+stici - llegar
+neki - algun
+jaja - huevos
