@@ -1,10 +1,23 @@
-voziti - montar
-oni - aquellos
-normalno - normalmente
-koje drzave znas - Que países conocés
-ljudi - gente
-radi mi se - tengo ganas de
-zedan sam - tengo sed
-da li vam je vruce - Ustedes tien calor
-mesto - lugar
-deo - parte
+sat - reloj
+na - sobre
+zatvoriti - cerrar
+velicina - talla
+cena - precio
+trinaest - trece
+cetrnaest - catorce
+petnaest - quince
+koliko kosta - Cuanto cuesta
+kartica - tarjeta
+
+kes - efectivo
+dvadeset - veinte
+ici u kupovinu - ir de compras
+mladji - menor
+ljut - enojado
+iznenadjen - suprendido
+lenj - perezoso
+zut - amarillo
+mrzeti - odiar
+konj - caballo
+
+

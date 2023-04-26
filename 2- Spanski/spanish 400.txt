@@ -65,8 +65,6 @@ roze - rosado
 jezik - idioma
 
 poducavati - enseñar
-
-
 nesto od cveca - algunas de las flores
 onda - entonces
 svako jutro - cada mañana
@@ -76,6 +74,7 @@ pre - antes
 posle - después
 svaka - cada
 tusiranje - ducharse
+
 oblacenje - ponerse
 ustajanje - levantarse
 rano - temprano
@@ -86,6 +85,7 @@ nego tvoja - que la suya
 lice - cara
 poprilicno - bastante
 koji - cuál
+
 rec - palabra
 ne razumem - no entiendo
 izgubiti - perder
@@ -96,21 +96,4 @@ zima - invierno
 pada kisa - llueve
 pada sneg - nieva
 oblacno - nublado
-mracan - oscuro
-pada sneg - nieva
-pada kisa - llueve
-mesec - mes
-despacio - sporo
-slatko - dulce
-obe - ambas
-kesa - bolsa
-debeo - gordo
-rec - palabra
-manje - menos
-tanak - delgado
-nositi - llevar
-staviti - pones
-vruce - caliente
-stici - llegar
-neki - algun
-jaja - huevos
+
