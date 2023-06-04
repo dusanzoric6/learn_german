@@ -34,7 +34,7 @@ konj - caballo
 voziti - montar
 oni - aquellos
 normalno - normalmente
-koje drzave znas - Que países conocés
+koje drzave znas - Que países conoces
 ljudi - gente
 radi mi se - tengo ganas de
 zedan sam - tengo sed
@@ -64,16 +64,16 @@ zivot - vida
 roze - rosado
 jezik - idioma
 
-poducavati - enseñar
+poducavati - ensenar
 nesto od cveca - algunas de las flores
 onda - entonces
-svako jutro - cada mañana
+svako jutro - cada manana
 dorucak - desayuno
 napustam - yo salgo
 pre - antes
-posle - después
+posle - despues
 svaka - cada
-tusiranje - ducharse
+tusirati se - ducharse
 
 oblacenje - ponerse
 ustajanje - levantarse
@@ -84,7 +84,7 @@ meni izgleda - me parece
 nego tvoja - que la suya
 lice - cara
 poprilicno - bastante
-koji - cuál
+koji - cual
 
 rec - palabra
 ne razumem - no entiendo

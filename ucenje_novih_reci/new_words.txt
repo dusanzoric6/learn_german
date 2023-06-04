@@ -1,23 +1,10 @@
-sat - reloj
-na - sobre
-zatvoriti - cerrar
-velicina - talla
-cena - precio
-trinaest - trece
-cetrnaest - catorce
-petnaest - quince
-koliko kosta - Cuanto cuesta
-kartica - tarjeta
-
-kes - efectivo
-dvadeset - veinte
-ici u kupovinu - ir de compras
-mladji - menor
-ljut - enojado
-iznenadjen - suprendido
-lenj - perezoso
-zut - amarillo
-mrzeti - odiar
-konj - caballo
-
-
+oblacenje - ponerse
+ustajanje - levantarse
+rano - temprano
+vratiti se - volver
+poceti - empiesar
+meni izgleda - me parece
+nego tvoja - que la suya
+lice - cara
+poprilicno - bastante
+koji - cual
