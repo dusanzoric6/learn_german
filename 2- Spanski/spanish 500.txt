@@ -80,3 +80,20 @@ bio - era
 siguran - seguro
 stopalo - pie
 cekati - esperar
+prelep - ermoso
+sto - cien
+devedeset - noventa
+poslati - mandar
+hiljada - mil
+
+sakriti - esconder
+kasnije - luego
+trava - cesped
+nastaviti - sigar
+blizu - cercano
+ispred - enfrente
+izmedju - entre
+gore - arriba
+nazad - atras
+unutar - dentro
+

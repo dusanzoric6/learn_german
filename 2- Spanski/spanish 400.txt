@@ -75,11 +75,11 @@ posle - despues
 svaka - cada
 tusirati se - ducharse
 
-oblacenje - ponerse
-ustajanje - levantarse
+obuci se - ponerse
+ustati se - levantarse
 rano - temprano
 vratiti se - volver
-poceti - empiesar
+poceti - empezar
 meni izgleda - me parece
 nego tvoja - que la suya
 lice - cara
@@ -95,6 +95,6 @@ oblacno - nublado
 zima - invierno
 pada kisa - llueve
 pada sneg - nieva
-oblacno - nublado
+
 
 
