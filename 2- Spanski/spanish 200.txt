@@ -14,7 +14,7 @@ ispred - enfrente
 pedeset - cincuenta
 vezbati - practicar
 sport - deporte
-lopta - pelotas
+lopta - pelota
 plivati - nadar
 raditi - hacer
 poceti - empenzar
@@ -31,7 +31,7 @@ prljav - sucio
 cimerka - companera de cuarto
 raspravljati - discutir
 
-iznenadjen - sorprendida
+iznenadjen - sorprendido
 tvoj - tuyo
 ljut - furioso
 ponekad - a veces

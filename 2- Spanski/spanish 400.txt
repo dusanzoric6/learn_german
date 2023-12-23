@@ -34,10 +34,9 @@ konj - caballo
 voziti - montar
 oni - aquellos
 normalno - normalmente
-koje drzave znas - Que países conoces
+koje drzave znas - Que paises conoces
 ljudi - gente
 radi mi se - tengo ganas de
-zedan sam - tengo sed
 da li vam je vruce - Ustedes tien calor
 mesto - lugar
 deo - parte
@@ -48,15 +47,14 @@ neki - algunos
 pokazati - esenar
 voleti - amar
 boli me oko - me duele el ojo
-taj - aquel
+ovaj - aquel
 zedan sam - tengo sed
 hladno mi je - tengo frio
 vruce mi je - tengo calor
 
 nosim kaput - tengo puesto abrigo
 spava mi se - tengo sueno
-u raspolozenju sam za - tengo ganas de
-neko - alugugen
+neko - alguien
 pronaci - encontrar
 koji je - cual es
 najgori - el peor
@@ -95,6 +93,3 @@ oblacno - nublado
 zima - invierno
 pada kisa - llueve
 pada sneg - nieva
-
-
-
