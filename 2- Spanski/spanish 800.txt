@@ -1,0 +1,22 @@
+estufa - sporet
+comoda - ormar
+apagada - iskljucena
+encendida - ukljucena
+espejo - ogledalo
+sillon - fotelja
+lavadora - ves masina
+amigable - prijateljski
+timido - stidljiv
+jabon - sapun
+
+descansar - odmoriti
+Dolor - bol
+Enfermera - medicinska sestra
+Cuello - vrat
+Espalda - ledja
+Dedo - prst
+Cuidar se - starati se
+Palido - bled
+Accidente - nesreca
+Actividad - aktivnost
+Borar - izbrisati
