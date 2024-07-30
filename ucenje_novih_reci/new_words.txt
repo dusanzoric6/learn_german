@@ -1,5 +1,21 @@
-ovi - aquellos
-neki - algunos
+calentar - to heat
+despertar - to wake up
+mentir - to lie
+perder - to lose
+contar - to count
+volver - to return
+medir - to measure
+reír - to laugh
+despedir - to fire
+impedir - to prevent
 
-ovaj - aquel
-neko - alguien
+vestir - to dress
+valer - to be worth
+caer - to fall
+construir - to build
+sustituir - to replace
+incluir - to include
+atribuir - to attribute
+desvestirse - to undress
+por supuesto - of course
+poner - to put

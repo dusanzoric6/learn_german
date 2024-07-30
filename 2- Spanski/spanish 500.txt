@@ -2,7 +2,7 @@ mracan - oscuro
 pada sneg - nieva
 pada kisa - llueve
 mesec - mes
-despacio - sporo
+sporo - despacio
 slatko - dulce
 obe - ambas
 kesa - bolsa
@@ -12,13 +12,13 @@ rec - palabra
 manje - menos
 tanak - delgado
 nositi - llevar
-staviti - pones
+staviti - poner
 vruce - caliente
 stici - llegar
 neki - algun
 jaja - huevos
-pronto - uskoro
-sesenta - sezdeset
+uskoro - pronto
+sezdeset - sesenta
 
 isto dobar kao - tan bueno como
 tacno sada - ahora mismo
@@ -36,7 +36,7 @@ ucionica - aula
 upravo citam - estoy leyendo
 vec - ya
 sporo - lento
-svetao - ligero
+lagan - ligero
 nastaviti - seguir
 kazati - decir
 voziti - manejar
@@ -66,14 +66,13 @@ komsija - vecino
 lagan - ligero
 kutija - caja
 uzeti - coger
-pokazati - enseñar
+pokazati - ensenar
 farma - granja
 zid - pared
 sesti - sentarse
 cela - toda
 nekoliko - pocas
-doneti - traijar
-komsija - vecino
+doneti - traer
 
 moram da ti kazem - te tengo que decir
 bio - era
@@ -96,4 +95,3 @@ izmedju - entre
 gore - arriba
 nazad - atras
 unutar - dentro
-

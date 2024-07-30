@@ -9,7 +9,7 @@ dalje - lejos
 sinoc - anoche
 niko - nadie
 
-imas pravo - tienes razón
+imas pravo - tienes razon
 brinuti - preocupar
 izgledas zauzeto - te ves preocupado
 izabrati - elegir
@@ -17,8 +17,8 @@ siromasan - pobre
 ogroman - gran
 plakati - llorar
 bio je tako mlad - era tan joven
-reklama - anucio
-tesko - duro
+reklama - anuncio
+tvrd - duro
 
 recenica - oracion
 smesan - gracioso
@@ -37,81 +37,81 @@ duh - fantasma
 umreti - morir
 
 
-parar - zaustaviti
-ejemplo - primer
-responder - odgovoriti
-mentir - lagati
-piernas - noge
-oir - cuti
-negocio - biznis
-canas - seda kosa
-boca - usta
-encima - na vrhu
-despertar - buditi se
+zaustaviti - parar
+primer - ejemplo
+odgovoriti - responder
+lagati - mentir
+noge - piernas
+cuti - oir
+biznis - negocio
+seda kosa - canas
+usta - boca
+na vrhu - encima
+buditi se - despertar
 
-no te oigo - ne cujem te
-nariz - nos
-pierna - noga
-acabar - zavrsiti
-brazo - ruka
-sonar - sanjati
-barba - brada
-morado - ljubicasta
-odiar - mrzeti
-acostarse - ici u krevet
-tu tampoco - ni ti
-disponible - dostupan
+ne cujem te - no te oigo
+nos - nariz
+noga - pierna
+zavrsiti - acabar
+ruka - brazo
+sanjati - sonar
+brada - barba
+ljubicasta - morado
+mrzeti - odiar
+ici u krevet - acostarse
+ni ti - tu tampoco
+dostupan - disponible
 
-reunión - sastanak
-empresa - kompanija
-asi - zato
-romper - polomiti
-se rier - smejati se
-bosque - suma
-galleta - kolacic
-alumno - djak
-amable - fin
-dijimos que no íbamos - rekli smo da necemo koristiti
+sastanak - reunion
+kompanija - empresa
+zato - asi
+polomiti - romper
+smejati se - se rier
+suma - bosque
+kolacic - galleta
+djak - alumno
+fin - amable
+rekli smo da necemo koristiti - dijimos que no ibamos
 
-naturaleza - priroda
-patatas asadas - peceni krompiri
-lleno - pun
-saludable - zdrav
-hielo - led
-estupendo - odlicno
-broma - sala
-lado - strana
-cortinas - zavese
-amancer - svitanje
+priroda - naturaleza
+peceni krompiri - patatas asadas
+pun - lleno
+zdrav - saludable
+led - hielo
+odlicno - estupendo
+sala - broma
+strana - lado
+zavese - cortinas
+svitanje - amancer
 
-quitar - skinuti
-descanso - pauza
-espectáculo - spektakl
-obra - predstava
-a lo mejor - mozda
-lago - jezero
-motocicleta - motor
-desafortunadamente - na zalost
-ciclismo - biciklizam
-acuerdarse - setiti se
+skinuti - quitar
+pauza - descanso
+spektakl - espectáculo
+predstava - obra
+mozda - a lo mejor
+jezero - lago
+motor - motocicleta
+na zalost - desafortunadamente
+biciklizam - ciclismo
+setiti se - acuerdarse
 
-empresa - firma
-sangre - krv
-tirar - baciti
-durante - tokom
-vender - prodati
-basura - smece
-durante - tokom
-juguete - igracka
-iglesia - crkva
+firma - empresa
+krv - sangre
+baciti - tirar
+tokom - durante
+prodati - vender
+smece - basura
+tokom - durante
+igracka - juguete
+crkva - iglesia
 
-delgado - mrsav
-rodilla - koleno
-me duele la espalda - bole me ledja
-senal - znak
-pelea - borba
-patio - dvoriste
-acompanar - pridruziti se
-medianoche - ponoc
-mediodía - podne
-voy a dejar - prestacu
+mrsav - delgado
+koleno - rodilla
+bole me ledja - me duele la espalda
+znak - senal
+borba - pelea
+dvoriste - patio
+pridruziti se - acompanar
+ponoc - medianoche
+podne - mediodia
+prestacu - voy a dejar
