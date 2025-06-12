@@ -100,7 +100,7 @@ def print_success_rate():
 
 
 def get_target_list():
-    with codecs.open("new_words.txt", 'r', 'cp1252') as f:
+    with codecs.open("new_words.txt", 'r', 'latin-1') as f:
         target_words_list = f.readlines()
     target_words_list = [x.strip() for x in target_words_list]
     target_words_list = filter(None, target_words_list)

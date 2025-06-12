@@ -1,0 +1,18 @@
+time - Die Zeit
+year - Das Jahr
+face - Das Gesicht
+moment - Der Moment
+lassen (to let, allow) - gelassen
+liegen (to lie, be located) - gelegen
+heißen (to be called) - geheißen
+halten (to hold, stop) - gehalten
+mögen (to like) - gemocht
+zeigen (to show) - gezeigt
+setzen (to set, place, sit) - gesetzt
+schreiben (to write) - geschrieben
+entscheiden (to decide) - entschieden
+treffen (to meet) - getroffen
+vergessen (to forget) - vergessen
+sitzen (to sit) - gesessen
+schließen (to close) - geschlossen
+fliegen (to fly) - geflogen

@@ -1,30 +1,99 @@
-paziti na - achten auf
-pricati o - erzählen über
-brinuti se o - sich kümmern um
-interesovati se za - sich interessieren für
-cekati na - warten auf
-zaliti se na - sich beschweren über
-radovati se oko - sich freuen auf/über
-aplicirati na - sich bewerben bei um
-radi se o necemu - es geht um etwas
-ucestvovati u - teilnehmen an
-misliti na - denken an
-razmisljati o - nachdenken über
-verujem u tebe - ich glaube an dich
-mislim na tebe - ich denke an dich
-imati zelju raditi nesto - Lust auf etwas haben
-o cemu se ovde radi - Worum geht es hier
-radi se o - Es geht um
-smejati se necemu - lachen über etwas
-pitam za put - ich frage nach dem Weg
-zavisiti od - abhängen von
-on ucestvuje u - er nimmt daran teil
-pomoci oko - helfen bei
-razmisliti o - nachdenken über
-diskutovati o - diskutieren über
-pricati o - sprechen über
-znati o - wissen über
-misliti na - denken an
-brinuti o - aufpassen auf
-propustiti - verpassen
-nedostajes mi - ich vermisse dich
+achten - auf
+anfangen / beginnen - mit
+aufhören - mit
+denken - an
+lachen - über
+fliehen / flüchten - vor
+nachdenken - über
+protestiren - gegen
+rechnen - mit
+sorgen - für
+teilnehmen - an
+warten - auf
+
+gehören - zu
+passen - zu
+riechen - nach
+schmecken - nach
+
+bitten dich - um
+einladen dich - zu
+fragen dich - nach
+informieren dich - über
+
+antworten dir - auf
+danken dir - für
+gratulieren dir - zu
+helfen dir - bei
+
+sich ärgern = to be annoyed  - über
+sich engagieren = to get involved  - für
+sich erinnern = to remember  - an
+sich fürchten = to be afraid  - vor
+sich interessieren = to be interested  - für
+sich kümmern = to take care of  - um
+sich sorgen = to worry  - um
+sich treffen = to meet  - mit
+sich verabreden = to make an appointment  - mit
+sich verabschieden = to say goodbye  - von
+sich verlassen = to rely on  - auf
+sich wundern = to wonder  - über
+sich anmelden (D) = to register with  - bei
+sich anmelden (A) = to sign up for  - für
+sich bedanken (D) = to thank someone  - bei
+sich bedanken (A) = to thank for  - für
+sich beschweren (D) = to complain to  - bei
+sich beschweren (A) = to complain about  - über
+sich entschuldigen (D) = to apologize to  - bei
+sich entschuldigen (A) = to apologize for  - für
+sich erkundigen (D) = to inquire about  - bei
+sich streiten (D) = to argue with  - mit
+sich streiten (A) = to argue about  - über
+sich unterhalten (D) = to talk with  - mit
+sich unterhalten (A) = to talk about  - über
+sich bewerben (A) = to apply for  - um für
+sich entscheiden = to decide  - für gegen
+sich freuen = to be happy  - auf über
+
+diskutieren (D) = to discuss with  - mit
+diskutieren (A) = to discuss about - über
+sprechen (D) = to speak with  - mit
+sprechen (A) = to speak about  - über
+arbeiten (D) = to work with  - an
+arbeiten (A) = to work on  - für
+
+sich ärgern = to be annoyed  - über
+sich engagieren = to get involved  - für
+sich erinnern = to remember  - an
+sich fürchten = to be afraid  - vor
+sich interessieren = to be interested  - für
+sich kümmern = to take care of  - um
+sich sorgen = to worry  - um
+sich treffen = to meet  - mit
+sich verabreden = to make an appointment  - mit
+sich verabschieden = to say goodbye  - von
+sich verlassen = to rely on  - auf
+sich wundern = to wonder  - über
+sich anmelden (D) = to register with  - bei
+sich anmelden (A) = to sign up for  - für
+sich bedanken (D) = to thank someone  - bei
+sich bedanken (A) = to thank for  - für
+sich beschweren (D) = to complain to  - bei
+sich beschweren (A) = to complain about  - über
+sich entschuldigen (D) = to apologize to  - bei
+sich entschuldigen (A) = to apologize for  - für
+sich erkundigen (D) = to inquire about  - bei
+sich streiten (D) = to argue with  - mit
+sich streiten (A) = to argue about  - über
+sich unterhalten (D) = to talk with  - mit
+sich unterhalten (A) = to talk about  - über
+sich bewerben (A) = to apply for  - um für
+sich entscheiden = to decide  - für gegen
+sich freuen = to be happy  - auf über
+
+diskutieren (D) = to discuss with  - mit
+diskutieren (A) = to discuss about - über
+sprechen (D) = to speak with  - mit
+sprechen (A) = to speak about  - über
+arbeiten (D) = to work with  - an
+arbeiten (A) = to work on  - für
