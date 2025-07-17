@@ -1,11 +1,11 @@
 import codecs
 from random import shuffle
 
-# from ucenje_novih_reci import TextToSpeach
+from ucenje_novih_reci import TextToSpeach
 from ucenje_novih_reci.word_complex import WordComplex
 
 
-def learn_this_list_german(target_words_list):
+def learn_type_second_language(target_words_list):
     for count, word_complex in enumerate(target_words_list):
 
         print_loading_percentage(count, target_words_list)
@@ -13,16 +13,14 @@ def learn_this_list_german(target_words_list):
         print(eng_art + word_complex.eng)
         translation_input = input("translation: ")
 
-        # TextToSpeach.say_the_word_in_spanish(word_complex.ger.lower())
-
         if (word_complex.art.lower() + " " + word_complex.ger.lower()).strip() == translation_input.lower():
+            TextToSpeach.speak_german(word_complex.art + " " + word_complex.ger)
             print("true")
             print("-------------------------------------------------t")
             print("")
             continue
 
         elif translation_input == "r":
-            # TextToSpeach.say_the_word_in_spanish(word_complex.ger.lower())
             print("-------------------------------------------------e")
             continue
 
@@ -39,6 +37,7 @@ def learn_this_list_german(target_words_list):
 
         else:
             print("false - " + word_complex.art + " " + word_complex.ger)
+            TextToSpeach.speak_german(word_complex.art + " " + word_complex.ger)
             list_of_false.append(word_complex)
             print("-------------------------------------------------f")
             print("")
@@ -47,18 +46,14 @@ def learn_this_list_german(target_words_list):
     print_success_rate()
 
 
-def learn_this_list_english(list):
+def learn_type_first_language(list):
     for count, word_complex in enumerate(list):
         length = len(list)
         percentage = (count / length) * 100
         print(str(round(percentage, 1)) + " %")
         print(word_complex.get_german())
-        # TextToSpeach.say_the_word_in_spanish(word_complex.get_german())
+        TextToSpeach.speak_german(word_complex.get_german())
         translation_input = input("translation: ")
-
-        # while translation_input == "r":
-        #     TextToSpeach.say_the_word_in_spanish(word_complex.get_german())
-        #     translation_input = input("translation: ")
 
         if word_complex.eng.lower() == translation_input.lower():
             print("true")
@@ -142,9 +137,9 @@ def learn_again():
     else:
         print("--------------  AGAIN --------------------")
         if learning_mode == "2":
-            learn_this_list_german(list_of_false)
+            learn_type_second_language(list_of_false)
         else:
-            learn_this_list_english(list_of_false)
+            learn_type_first_language(list_of_false)
         for word_you_got_wrong in list_of_false:
             print(word_you_got_wrong.get_all_string())
 
@@ -155,13 +150,13 @@ target_list = get_target_list()
 list_of_false = []
 
 # learning_mode = "e"
-learning_mode = input("Prevodi na Srpski (1) \n"
-                      "Prevodi sa Srpskog (2) : ")
+learning_mode = input("Prevedi na Prvi jezik (1) \n"
+                      "Prevodi na Drugi jezik (2) : ")
 print("-------------------------------------------------f")
 
 if learning_mode == "2":
-    learn_this_list_german(target_list)
+    learn_type_second_language(target_list)
     learn_again()
 else:
-    learn_this_list_english(target_list)
+    learn_type_first_language(target_list)
     learn_again()

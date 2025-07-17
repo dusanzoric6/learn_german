@@ -1,21 +1,28 @@
-calentar - to heat
-despertar - to wake up
-mentir - to lie
-perder - to lose
-contar - to count
-volver - to return
-medir - to measure
-reír - to laugh
-despedir - to fire
-impedir - to prevent
+female - weiblich
+to agree - zustimmen
+authorization - die Berechtigung
+sights - die Sehenswürdigkeiten
+business trip - die Geschäftsreise
+having a cold - verkühlt
+exhausting - anstrengend
+really right now - gerade echt
+small thing - die Kleinigkeit
+to open - aufmachen
+stupid - blöd
+victim - das Opfer
 
-vestir - to dress
-valer - to be worth
-caer - to fall
-construir - to build
-sustituir - to replace
-incluir - to include
-atribuir - to attribute
-desvestirse - to undress
-por supuesto - of course
-poner - to put
+exactly - genauso
+tight - enges
+feel - fühlen
+media usage - die Mediennutzung
+further education - die Fortbildung
+to subscribe - abonnieren
+several times - mehrmals
+to grow up - aufwachsen
+constantly - ständig
+to tie - knüpfen
+simultaneously - gleichzeitig
+one third - das Drittel
+teenagers - die Jugendlichen
+to handle - umzugehen
+on the way - unterwegs
