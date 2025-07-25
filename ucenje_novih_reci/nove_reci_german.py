@@ -149,7 +149,6 @@ def learn_again():
 target_list = get_target_list()
 list_of_false = []
 
-# learning_mode = "e"
 learning_mode = input("Prevedi na Prvi jezik (1) \n"
                       "Prevodi na Drugi jezik (2) : ")
 print("-------------------------------------------------f")

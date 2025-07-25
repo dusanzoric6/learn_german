@@ -22,7 +22,8 @@ def is_on_vpn():
 _is_vpn = is_on_vpn()
 
 def speak_german(word):
-    if _is_vpn:   # run bad pronunciation
+    if True:   # run bad pronunciation
+    # if _is_vpn:   # run bad pronunciation
         engine = pyttsx3.init()
         engine.setProperty('rate', 110)
         for voice in engine.getProperty('voices'):

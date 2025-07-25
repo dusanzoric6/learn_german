@@ -10,4 +10,4 @@ class WordComplex:
         return (self.art + " " + self.ger).strip()
 
     def get_all_string(self):
-        return self.get_german() + " - " + self.eng
+        return self.eng + " - " + self.get_german()
